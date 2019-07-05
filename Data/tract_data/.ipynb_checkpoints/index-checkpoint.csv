@@ -1,0 +1,1123 @@
+0,Id
+1,Id2
+2,Geography
+3,Estimate; SEX AND AGE - Total population
+4,Margin of Error; SEX AND AGE - Total population
+5,Percent; SEX AND AGE - Total population
+6,Percent Margin of Error; SEX AND AGE - Total population
+7,Estimate; SEX AND AGE - Total population - Male
+8,Margin of Error; SEX AND AGE - Total population - Male
+9,Percent; SEX AND AGE - Total population - Male
+10,Percent Margin of Error; SEX AND AGE - Total population - Male
+11,Estimate; SEX AND AGE - Total population - Female
+12,Margin of Error; SEX AND AGE - Total population - Female
+13,Percent; SEX AND AGE - Total population - Female
+14,Percent Margin of Error; SEX AND AGE - Total population - Female
+15,Estimate; SEX AND AGE - Under 5 years
+16,Margin of Error; SEX AND AGE - Under 5 years
+17,Percent; SEX AND AGE - Under 5 years
+18,Percent Margin of Error; SEX AND AGE - Under 5 years
+19,Estimate; SEX AND AGE - 5 to 9 years
+20,Margin of Error; SEX AND AGE - 5 to 9 years
+21,Percent; SEX AND AGE - 5 to 9 years
+22,Percent Margin of Error; SEX AND AGE - 5 to 9 years
+23,Estimate; SEX AND AGE - 10 to 14 years
+24,Margin of Error; SEX AND AGE - 10 to 14 years
+25,Percent; SEX AND AGE - 10 to 14 years
+26,Percent Margin of Error; SEX AND AGE - 10 to 14 years
+27,Estimate; SEX AND AGE - 15 to 19 years
+28,Margin of Error; SEX AND AGE - 15 to 19 years
+29,Percent; SEX AND AGE - 15 to 19 years
+30,Percent Margin of Error; SEX AND AGE - 15 to 19 years
+31,Estimate; SEX AND AGE - 20 to 24 years
+32,Margin of Error; SEX AND AGE - 20 to 24 years
+33,Percent; SEX AND AGE - 20 to 24 years
+34,Percent Margin of Error; SEX AND AGE - 20 to 24 years
+35,Estimate; SEX AND AGE - 25 to 34 years
+36,Margin of Error; SEX AND AGE - 25 to 34 years
+37,Percent; SEX AND AGE - 25 to 34 years
+38,Percent Margin of Error; SEX AND AGE - 25 to 34 years
+39,Estimate; SEX AND AGE - 35 to 44 years
+40,Margin of Error; SEX AND AGE - 35 to 44 years
+41,Percent; SEX AND AGE - 35 to 44 years
+42,Percent Margin of Error; SEX AND AGE - 35 to 44 years
+43,Estimate; SEX AND AGE - 45 to 54 years
+44,Margin of Error; SEX AND AGE - 45 to 54 years
+45,Percent; SEX AND AGE - 45 to 54 years
+46,Percent Margin of Error; SEX AND AGE - 45 to 54 years
+47,Estimate; SEX AND AGE - 55 to 59 years
+48,Margin of Error; SEX AND AGE - 55 to 59 years
+49,Percent; SEX AND AGE - 55 to 59 years
+50,Percent Margin of Error; SEX AND AGE - 55 to 59 years
+51,Estimate; SEX AND AGE - 60 to 64 years
+52,Margin of Error; SEX AND AGE - 60 to 64 years
+53,Percent; SEX AND AGE - 60 to 64 years
+54,Percent Margin of Error; SEX AND AGE - 60 to 64 years
+55,Estimate; SEX AND AGE - 65 to 74 years
+56,Margin of Error; SEX AND AGE - 65 to 74 years
+57,Percent; SEX AND AGE - 65 to 74 years
+58,Percent Margin of Error; SEX AND AGE - 65 to 74 years
+59,Estimate; SEX AND AGE - 75 to 84 years
+60,Margin of Error; SEX AND AGE - 75 to 84 years
+61,Percent; SEX AND AGE - 75 to 84 years
+62,Percent Margin of Error; SEX AND AGE - 75 to 84 years
+63,Estimate; SEX AND AGE - 85 years and over
+64,Margin of Error; SEX AND AGE - 85 years and over
+65,Percent; SEX AND AGE - 85 years and over
+66,Percent Margin of Error; SEX AND AGE - 85 years and over
+67,Estimate; SEX AND AGE - Median age (years)
+68,Margin of Error; SEX AND AGE - Median age (years)
+69,Percent; SEX AND AGE - Median age (years)
+70,Percent Margin of Error; SEX AND AGE - Median age (years)
+71,Estimate; SEX AND AGE - 18 years and over
+72,Margin of Error; SEX AND AGE - 18 years and over
+73,Percent; SEX AND AGE - 18 years and over
+74,Percent Margin of Error; SEX AND AGE - 18 years and over
+75,Estimate; SEX AND AGE - 21 years and over
+76,Margin of Error; SEX AND AGE - 21 years and over
+77,Percent; SEX AND AGE - 21 years and over
+78,Percent Margin of Error; SEX AND AGE - 21 years and over
+79,Estimate; SEX AND AGE - 62 years and over
+80,Margin of Error; SEX AND AGE - 62 years and over
+81,Percent; SEX AND AGE - 62 years and over
+82,Percent Margin of Error; SEX AND AGE - 62 years and over
+83,Estimate; SEX AND AGE - 65 years and over
+84,Margin of Error; SEX AND AGE - 65 years and over
+85,Percent; SEX AND AGE - 65 years and over
+86,Percent Margin of Error; SEX AND AGE - 65 years and over
+87,Estimate; SEX AND AGE - 18 years and over
+88,Margin of Error; SEX AND AGE - 18 years and over
+89,Percent; SEX AND AGE - 18 years and over
+90,Percent Margin of Error; SEX AND AGE - 18 years and over
+91,Estimate; SEX AND AGE - 18 years and over - Male
+92,Margin of Error; SEX AND AGE - 18 years and over - Male
+93,Percent; SEX AND AGE - 18 years and over - Male
+94,Percent Margin of Error; SEX AND AGE - 18 years and over - Male
+95,Estimate; SEX AND AGE - 18 years and over - Female
+96,Margin of Error; SEX AND AGE - 18 years and over - Female
+97,Percent; SEX AND AGE - 18 years and over - Female
+98,Percent Margin of Error; SEX AND AGE - 18 years and over - Female
+99,Estimate; SEX AND AGE - 65 years and over
+100,Margin of Error; SEX AND AGE - 65 years and over
+101,Percent; SEX AND AGE - 65 years and over
+102,Percent Margin of Error; SEX AND AGE - 65 years and over
+103,Estimate; SEX AND AGE - 65 years and over - Male
+104,Margin of Error; SEX AND AGE - 65 years and over - Male
+105,Percent; SEX AND AGE - 65 years and over - Male
+106,Percent Margin of Error; SEX AND AGE - 65 years and over - Male
+107,Estimate; SEX AND AGE - 65 years and over - Female
+108,Margin of Error; SEX AND AGE - 65 years and over - Female
+109,Percent; SEX AND AGE - 65 years and over - Female
+110,Percent Margin of Error; SEX AND AGE - 65 years and over - Female
+111,Estimate; RACE - Total population
+112,Margin of Error; RACE - Total population
+113,Percent; RACE - Total population
+114,Percent Margin of Error; RACE - Total population
+115,Estimate; RACE - Total population - One race
+116,Margin of Error; RACE - Total population - One race
+117,Percent; RACE - Total population - One race
+118,Percent Margin of Error; RACE - Total population - One race
+119,Estimate; RACE - Total population - Two or more races
+120,Margin of Error; RACE - Total population - Two or more races
+121,Percent; RACE - Total population - Two or more races
+122,Percent Margin of Error; RACE - Total population - Two or more races
+123,Estimate; RACE - One race
+124,Margin of Error; RACE - One race
+125,Percent; RACE - One race
+126,Percent Margin of Error; RACE - One race
+127,Estimate; RACE - One race - White
+128,Margin of Error; RACE - One race - White
+129,Percent; RACE - One race - White
+130,Percent Margin of Error; RACE - One race - White
+131,Estimate; RACE - One race - Black or African American
+132,Margin of Error; RACE - One race - Black or African American
+133,Percent; RACE - One race - Black or African American
+134,Percent Margin of Error; RACE - One race - Black or African American
+135,Estimate; RACE - One race - American Indian and Alaska Native
+136,Margin of Error; RACE - One race - American Indian and Alaska Native
+137,Percent; RACE - One race - American Indian and Alaska Native
+138,Percent Margin of Error; RACE - One race - American Indian and Alaska Native
+139,Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+140,Margin of Error; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+141,Percent; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+142,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+143,Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+144,Margin of Error; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+145,Percent; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+146,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+147,Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+148,Margin of Error; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+149,Percent; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+150,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+151,Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+152,Margin of Error; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+153,Percent; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+154,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+155,Estimate; RACE - One race - Asian
+156,Margin of Error; RACE - One race - Asian
+157,Percent; RACE - One race - Asian
+158,Percent Margin of Error; RACE - One race - Asian
+159,Estimate; RACE - One race - Asian - Asian Indian
+160,Margin of Error; RACE - One race - Asian - Asian Indian
+161,Percent; RACE - One race - Asian - Asian Indian
+162,Percent Margin of Error; RACE - One race - Asian - Asian Indian
+163,Estimate; RACE - One race - Asian - Chinese
+164,Margin of Error; RACE - One race - Asian - Chinese
+165,Percent; RACE - One race - Asian - Chinese
+166,Percent Margin of Error; RACE - One race - Asian - Chinese
+167,Estimate; RACE - One race - Asian - Filipino
+168,Margin of Error; RACE - One race - Asian - Filipino
+169,Percent; RACE - One race - Asian - Filipino
+170,Percent Margin of Error; RACE - One race - Asian - Filipino
+171,Estimate; RACE - One race - Asian - Japanese
+172,Margin of Error; RACE - One race - Asian - Japanese
+173,Percent; RACE - One race - Asian - Japanese
+174,Percent Margin of Error; RACE - One race - Asian - Japanese
+175,Estimate; RACE - One race - Asian - Korean
+176,Margin of Error; RACE - One race - Asian - Korean
+177,Percent; RACE - One race - Asian - Korean
+178,Percent Margin of Error; RACE - One race - Asian - Korean
+179,Estimate; RACE - One race - Asian - Vietnamese
+180,Margin of Error; RACE - One race - Asian - Vietnamese
+181,Percent; RACE - One race - Asian - Vietnamese
+182,Percent Margin of Error; RACE - One race - Asian - Vietnamese
+183,Estimate; RACE - One race - Asian - Other Asian
+184,Margin of Error; RACE - One race - Asian - Other Asian
+185,Percent; RACE - One race - Asian - Other Asian
+186,Percent Margin of Error; RACE - One race - Asian - Other Asian
+187,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+188,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander
+189,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander
+190,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander
+191,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+192,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+193,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+194,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+195,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+196,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+197,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+198,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+199,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+200,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+201,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+202,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+203,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+204,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+205,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+206,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+207,Estimate; RACE - One race - Some other race
+208,Margin of Error; RACE - One race - Some other race
+209,Percent; RACE - One race - Some other race
+210,Percent Margin of Error; RACE - One race - Some other race
+211,Estimate; RACE - Two or more races
+212,Margin of Error; RACE - Two or more races
+213,Percent; RACE - Two or more races
+214,Percent Margin of Error; RACE - Two or more races
+215,Estimate; RACE - Two or more races - White and Black or African American
+216,Margin of Error; RACE - Two or more races - White and Black or African American
+217,Percent; RACE - Two or more races - White and Black or African American
+218,Percent Margin of Error; RACE - Two or more races - White and Black or African American
+219,Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+220,Margin of Error; RACE - Two or more races - White and American Indian and Alaska Native
+221,Percent; RACE - Two or more races - White and American Indian and Alaska Native
+222,Percent Margin of Error; RACE - Two or more races - White and American Indian and Alaska Native
+223,Estimate; RACE - Two or more races - White and Asian
+224,Margin of Error; RACE - Two or more races - White and Asian
+225,Percent; RACE - Two or more races - White and Asian
+226,Percent Margin of Error; RACE - Two or more races - White and Asian
+227,Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+228,Margin of Error; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+229,Percent; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+230,Percent Margin of Error; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+231,Estimate; RACE - Race alone or in combination with one or more other races - Total population
+232,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population
+233,Percent; RACE - Race alone or in combination with one or more other races - Total population
+234,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population
+235,Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+236,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - White
+237,Percent; RACE - Race alone or in combination with one or more other races - Total population - White
+238,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - White
+239,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+240,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+241,Percent; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+242,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+243,Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+244,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+245,Percent; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+246,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+247,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+248,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Asian
+249,Percent; RACE - Race alone or in combination with one or more other races - Total population - Asian
+250,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Asian
+251,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+252,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+253,Percent; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+254,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+255,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+256,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+257,Percent; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+258,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+259,Estimate; HISPANIC OR LATINO AND RACE - Total population
+260,Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+261,Percent; HISPANIC OR LATINO AND RACE - Total population
+262,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+263,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+264,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+265,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+266,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+267,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+268,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+269,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+270,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+271,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+272,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+273,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+274,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+275,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+276,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+277,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+278,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+279,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+280,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+281,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+282,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+283,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+284,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+285,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+286,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+287,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+288,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+289,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+290,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+291,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+292,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+293,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+294,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+295,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+296,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+297,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+298,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+299,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+300,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+301,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+302,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+303,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+304,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+305,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+306,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+307,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+308,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+309,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+310,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+311,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+312,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+313,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+314,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+315,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+316,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+317,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+318,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+319,"Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+320,"Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+321,"Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+322,"Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+323,Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+324,Margin of Error; HISPANIC OR LATINO AND RACE - Total housing units
+325,Percent; HISPANIC OR LATINO AND RACE - Total housing units
+326,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total housing units
+327,Id2
+328,Geography
+329,Estimate; EMPLOYMENT STATUS - Population 16 years and over
+330,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+331,Percent; EMPLOYMENT STATUS - Population 16 years and over
+332,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+333,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+334,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+335,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+336,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+337,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+338,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+339,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+340,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+341,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+342,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+343,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+344,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+345,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+346,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+347,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+348,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+349,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+350,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+351,Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+352,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+353,Estimate; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+354,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+355,Percent; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+356,Percent Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+357,Estimate; EMPLOYMENT STATUS - Civilian labor force
+358,Margin of Error; EMPLOYMENT STATUS - Civilian labor force
+359,Percent; EMPLOYMENT STATUS - Civilian labor force
+360,Percent Margin of Error; EMPLOYMENT STATUS - Civilian labor force
+361,Estimate; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+362,Margin of Error; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+363,Percent; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+364,Percent Margin of Error; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+365,Estimate; EMPLOYMENT STATUS - Females 16 years and over
+366,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+367,Percent; EMPLOYMENT STATUS - Females 16 years and over
+368,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+369,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+370,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+371,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+372,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+373,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+374,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+375,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+376,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+377,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+378,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+379,Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+380,Percent Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+381,Estimate; EMPLOYMENT STATUS - Own children under 6 years
+382,Margin of Error; EMPLOYMENT STATUS - Own children under 6 years
+383,Percent; EMPLOYMENT STATUS - Own children under 6 years
+384,Percent Margin of Error; EMPLOYMENT STATUS - Own children under 6 years
+385,Estimate; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+386,Margin of Error; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+387,Percent; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+388,Percent Margin of Error; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+389,Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years
+390,Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years
+391,Percent; EMPLOYMENT STATUS - Own children 6 to 17 years
+392,Percent Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years
+393,Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+394,Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+395,Percent; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+396,Percent Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+397,Estimate; COMMUTING TO WORK - Workers 16 years and over
+398,Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+399,Percent; COMMUTING TO WORK - Workers 16 years and over
+400,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+401,"Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+402,"Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+403,"Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+404,"Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+405,"Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+406,"Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+407,"Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+408,"Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+409,Estimate; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+410,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+411,Percent; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+412,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+413,Estimate; COMMUTING TO WORK - Workers 16 years and over - Walked
+414,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+415,Percent; COMMUTING TO WORK - Workers 16 years and over - Walked
+416,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+417,Estimate; COMMUTING TO WORK - Workers 16 years and over - Other means
+418,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+419,Percent; COMMUTING TO WORK - Workers 16 years and over - Other means
+420,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+421,Estimate; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+422,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+423,Percent; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+424,Percent Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+425,Estimate; COMMUTING TO WORK - Mean travel time to work (minutes)
+426,Margin of Error; COMMUTING TO WORK - Mean travel time to work (minutes)
+427,Percent; COMMUTING TO WORK - Mean travel time to work (minutes)
+428,Percent Margin of Error; COMMUTING TO WORK - Mean travel time to work (minutes)
+429,Estimate; OCCUPATION - Civilian employed population 16 years and over
+430,Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+431,Percent; OCCUPATION - Civilian employed population 16 years and over
+432,Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+433,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+434,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+435,"Percent; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+436,"Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+437,Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+438,Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+439,Percent; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+440,Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+441,Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+442,Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+443,Percent; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+444,Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+445,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+446,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+447,"Percent; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+448,"Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+449,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+450,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+451,"Percent; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+452,"Percent Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+453,Estimate; INDUSTRY - Civilian employed population 16 years and over
+454,Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+455,Percent; INDUSTRY - Civilian employed population 16 years and over
+456,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+457,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+458,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+459,"Percent; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+460,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+461,Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction
+462,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+463,Percent; INDUSTRY - Civilian employed population 16 years and over - Construction
+464,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+465,Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+466,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+467,Percent; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+468,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+469,Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+470,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+471,Percent; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+472,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+473,Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+474,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+475,Percent; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+476,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+477,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+478,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+479,"Percent; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+480,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+481,Estimate; INDUSTRY - Civilian employed population 16 years and over - Information
+482,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+483,Percent; INDUSTRY - Civilian employed population 16 years and over - Information
+484,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+485,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+486,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+487,"Percent; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+488,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+489,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+490,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+491,"Percent; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+492,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+493,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+494,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+495,"Percent; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+496,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+497,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+498,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+499,"Percent; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+500,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+501,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+502,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+503,"Percent; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+504,"Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+505,Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration
+506,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+507,Percent; INDUSTRY - Civilian employed population 16 years and over - Public administration
+508,Percent Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+509,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over
+510,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+511,Percent; CLASS OF WORKER - Civilian employed population 16 years and over
+512,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+513,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+514,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+515,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+516,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+517,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+518,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+519,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+520,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+521,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+522,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+523,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+524,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+525,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+526,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+527,Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+528,Percent Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+529,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households
+530,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households
+531,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households
+532,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households
+533,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+534,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+535,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+536,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+537,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+538,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+539,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+540,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+541,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+542,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+543,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+544,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+545,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+546,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+547,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+548,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+549,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+550,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+551,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+552,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+553,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+554,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+555,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+556,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+557,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+558,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+559,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+560,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+561,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+562,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+563,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+564,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+565,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+566,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+567,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+568,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+569,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+570,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+571,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+572,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+573,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+574,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+575,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+576,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+577,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+578,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+579,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+580,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+581,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings
+582,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings
+583,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings
+584,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings
+585,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+586,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+587,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+588,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+589,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security
+590,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security
+591,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security
+592,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security
+593,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+594,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+595,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+596,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+597,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income
+598,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income
+599,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income
+600,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income
+601,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+602,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+603,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+604,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+605,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+606,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+607,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+608,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+609,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+610,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+611,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+612,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+613,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+614,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+615,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+616,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+617,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+618,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+619,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+620,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+621,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+622,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+623,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+624,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months
+625,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families
+626,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families
+627,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families
+628,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families
+629,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+630,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+631,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+632,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+633,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+634,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+635,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+636,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+637,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+638,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+639,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+640,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+641,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+642,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+643,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+644,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+645,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+646,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+647,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+648,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+649,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+650,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+651,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+652,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+653,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+654,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+655,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+656,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+657,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+658,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+659,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+660,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+661,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+662,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+663,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+664,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+665,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+666,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+667,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+668,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+669,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+670,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+671,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+672,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+673,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+674,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+675,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+676,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+677,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+678,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+679,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+680,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+681,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+682,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+683,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+684,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+685,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+686,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+687,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+688,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+689,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+690,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+691,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+692,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+693,Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+694,Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+695,Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+696,Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+697,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+698,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+699,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+700,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)"
+701,"Estimate; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+702,"Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+703,"Percent; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+704,"Percent Margin of Error; INCOME AND BENEFITS (IN 2013 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)"
+705,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+706,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+707,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+708,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+709,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+710,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+711,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+712,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+713,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+714,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+715,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+716,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+717,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+718,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+719,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+720,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+721,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+722,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+723,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+724,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+725,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+726,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+727,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+728,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years
+729,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+730,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+731,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+732,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage
+733,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+734,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+735,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+736,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years
+737,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+738,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+739,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+740,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force:
+741,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+742,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+743,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+744,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed:
+745,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+746,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+747,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+748,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage
+749,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+750,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+751,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+752,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance
+753,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+754,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+755,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+756,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage
+757,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+758,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+759,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+760,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage
+761,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+762,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+763,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+764,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed:
+765,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+766,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+767,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+768,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage
+769,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+770,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+771,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+772,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance
+773,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+774,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+775,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+776,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage
+777,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+778,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+779,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+780,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage
+781,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+782,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+783,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+784,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force:
+785,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+786,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+787,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+788,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage
+789,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+790,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+791,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+792,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance
+793,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+794,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+795,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+796,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage
+797,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+798,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+799,Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+800,Percent Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage
+801,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+802,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+803,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+804,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+805,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+806,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+807,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+808,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+809,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+810,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+811,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+812,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+813,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+814,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+815,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+816,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+817,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+818,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+819,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+820,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+821,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+822,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+823,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+824,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+825,"Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+826,"Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+827,"Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+828,"Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+829,"Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+830,"Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+831,"Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+832,"Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+833,"Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+834,"Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+835,"Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+836,"Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+837,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+838,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+839,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+840,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+841,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+842,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+843,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+844,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+845,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+846,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+847,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+848,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+849,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+850,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+851,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+852,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+853,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+854,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+855,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+856,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+857,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+858,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+859,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+860,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+861,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+862,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+863,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+864,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+865,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+866,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+867,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+868,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+869,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - People in families
+870,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - People in families
+871,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - People in families
+872,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - People in families
+873,Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - Unrelated individuals 15 years and over
+874,Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - Unrelated individuals 15 years and over
+875,Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - Unrelated individuals 15 years and over
+876,Percent Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over - Unrelated individuals 15 years and over
+877,Id2
+878,Geography
+879,Estimate; SEX AND AGE - Total population
+880,Margin of Error; SEX AND AGE - Total population
+881,Percent; SEX AND AGE - Total population
+882,Percent Margin of Error; SEX AND AGE - Total population
+883,Estimate; SEX AND AGE - Total population - Male
+884,Margin of Error; SEX AND AGE - Total population - Male
+885,Percent; SEX AND AGE - Total population - Male
+886,Percent Margin of Error; SEX AND AGE - Total population - Male
+887,Estimate; SEX AND AGE - Total population - Female
+888,Margin of Error; SEX AND AGE - Total population - Female
+889,Percent; SEX AND AGE - Total population - Female
+890,Percent Margin of Error; SEX AND AGE - Total population - Female
+891,Estimate; SEX AND AGE - Under 5 years
+892,Margin of Error; SEX AND AGE - Under 5 years
+893,Percent; SEX AND AGE - Under 5 years
+894,Percent Margin of Error; SEX AND AGE - Under 5 years
+895,Estimate; SEX AND AGE - 5 to 9 years
+896,Margin of Error; SEX AND AGE - 5 to 9 years
+897,Percent; SEX AND AGE - 5 to 9 years
+898,Percent Margin of Error; SEX AND AGE - 5 to 9 years
+899,Estimate; SEX AND AGE - 15 to 19 years
+900,Margin of Error; SEX AND AGE - 15 to 19 years
+901,Percent; SEX AND AGE - 15 to 19 years
+902,Percent Margin of Error; SEX AND AGE - 15 to 19 years
+903,Estimate; SEX AND AGE - 20 to 24 years
+904,Margin of Error; SEX AND AGE - 20 to 24 years
+905,Percent; SEX AND AGE - 20 to 24 years
+906,Percent Margin of Error; SEX AND AGE - 20 to 24 years
+907,Estimate; SEX AND AGE - 35 to 44 years
+908,Margin of Error; SEX AND AGE - 35 to 44 years
+909,Percent; SEX AND AGE - 35 to 44 years
+910,Percent Margin of Error; SEX AND AGE - 35 to 44 years
+911,Estimate; SEX AND AGE - 45 to 54 years
+912,Margin of Error; SEX AND AGE - 45 to 54 years
+913,Percent; SEX AND AGE - 45 to 54 years
+914,Percent Margin of Error; SEX AND AGE - 45 to 54 years
+915,Estimate; SEX AND AGE - 55 to 59 years
+916,Margin of Error; SEX AND AGE - 55 to 59 years
+917,Percent; SEX AND AGE - 55 to 59 years
+918,Percent Margin of Error; SEX AND AGE - 55 to 59 years
+919,Estimate; SEX AND AGE - 60 to 64 years
+920,Margin of Error; SEX AND AGE - 60 to 64 years
+921,Percent; SEX AND AGE - 60 to 64 years
+922,Percent Margin of Error; SEX AND AGE - 60 to 64 years
+923,Estimate; SEX AND AGE - 75 to 84 years
+924,Margin of Error; SEX AND AGE - 75 to 84 years
+925,Percent; SEX AND AGE - 75 to 84 years
+926,Percent Margin of Error; SEX AND AGE - 75 to 84 years
+927,Estimate; SEX AND AGE - 85 years and over
+928,Margin of Error; SEX AND AGE - 85 years and over
+929,Percent; SEX AND AGE - 85 years and over
+930,Percent Margin of Error; SEX AND AGE - 85 years and over
+931,Estimate; SEX AND AGE - Median age (years)
+932,Margin of Error; SEX AND AGE - Median age (years)
+933,Percent; SEX AND AGE - Median age (years)
+934,Percent Margin of Error; SEX AND AGE - Median age (years)
+935,Estimate; SEX AND AGE - 21 years and over
+936,Margin of Error; SEX AND AGE - 21 years and over
+937,Percent; SEX AND AGE - 21 years and over
+938,Percent Margin of Error; SEX AND AGE - 21 years and over
+939,Estimate; SEX AND AGE - 62 years and over
+940,Margin of Error; SEX AND AGE - 62 years and over
+941,Percent; SEX AND AGE - 62 years and over
+942,Percent Margin of Error; SEX AND AGE - 62 years and over
+943,Estimate; SEX AND AGE - 65 years and over
+944,Margin of Error; SEX AND AGE - 65 years and over
+945,Percent; SEX AND AGE - 65 years and over
+946,Percent Margin of Error; SEX AND AGE - 65 years and over
+947,Estimate; SEX AND AGE - 18 years and over
+948,Margin of Error; SEX AND AGE - 18 years and over
+949,Percent; SEX AND AGE - 18 years and over
+950,Percent Margin of Error; SEX AND AGE - 18 years and over
+951,Estimate; SEX AND AGE - 18 years and over - Male
+952,Margin of Error; SEX AND AGE - 18 years and over - Male
+953,Percent; SEX AND AGE - 18 years and over - Male
+954,Percent Margin of Error; SEX AND AGE - 18 years and over - Male
+955,Estimate; RACE - Total population
+956,Margin of Error; RACE - Total population
+957,Percent; RACE - Total population
+958,Percent Margin of Error; RACE - Total population
+959,Estimate; RACE - Total population - One race
+960,Margin of Error; RACE - Total population - One race
+961,Percent; RACE - Total population - One race
+962,Percent Margin of Error; RACE - Total population - One race
+963,Estimate; RACE - Total population - Two or more races
+964,Margin of Error; RACE - Total population - Two or more races
+965,Percent; RACE - Total population - Two or more races
+966,Percent Margin of Error; RACE - Total population - Two or more races
+967,Estimate; RACE - One race - White
+968,Margin of Error; RACE - One race - White
+969,Percent; RACE - One race - White
+970,Percent Margin of Error; RACE - One race - White
+971,Estimate; RACE - One race - Black or African American
+972,Margin of Error; RACE - One race - Black or African American
+973,Percent; RACE - One race - Black or African American
+974,Percent Margin of Error; RACE - One race - Black or African American
+975,Estimate; RACE - One race - American Indian and Alaska Native
+976,Margin of Error; RACE - One race - American Indian and Alaska Native
+977,Percent; RACE - One race - American Indian and Alaska Native
+978,Percent Margin of Error; RACE - One race - American Indian and Alaska Native
+979,Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+980,Margin of Error; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+981,Percent; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+982,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+983,Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+984,Margin of Error; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+985,Percent; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+986,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+987,Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+988,Margin of Error; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+989,Percent; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+990,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+991,Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+992,Margin of Error; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+993,Percent; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+994,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+995,Estimate; RACE - One race - Asian
+996,Margin of Error; RACE - One race - Asian
+997,Percent; RACE - One race - Asian
+998,Percent Margin of Error; RACE - One race - Asian
+999,Estimate; RACE - One race - Asian - Asian Indian
+1000,Margin of Error; RACE - One race - Asian - Asian Indian
+1001,Percent; RACE - One race - Asian - Asian Indian
+1002,Percent Margin of Error; RACE - One race - Asian - Asian Indian
+1003,Estimate; RACE - One race - Asian - Chinese
+1004,Margin of Error; RACE - One race - Asian - Chinese
+1005,Percent; RACE - One race - Asian - Chinese
+1006,Percent Margin of Error; RACE - One race - Asian - Chinese
+1007,Estimate; RACE - One race - Asian - Filipino
+1008,Margin of Error; RACE - One race - Asian - Filipino
+1009,Percent; RACE - One race - Asian - Filipino
+1010,Percent Margin of Error; RACE - One race - Asian - Filipino
+1011,Estimate; RACE - One race - Asian - Japanese
+1012,Margin of Error; RACE - One race - Asian - Japanese
+1013,Percent; RACE - One race - Asian - Japanese
+1014,Percent Margin of Error; RACE - One race - Asian - Japanese
+1015,Estimate; RACE - One race - Asian - Korean
+1016,Margin of Error; RACE - One race - Asian - Korean
+1017,Percent; RACE - One race - Asian - Korean
+1018,Percent Margin of Error; RACE - One race - Asian - Korean
+1019,Estimate; RACE - One race - Asian - Vietnamese
+1020,Margin of Error; RACE - One race - Asian - Vietnamese
+1021,Percent; RACE - One race - Asian - Vietnamese
+1022,Percent Margin of Error; RACE - One race - Asian - Vietnamese
+1023,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+1024,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+1025,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+1026,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+1027,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+1028,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+1029,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+1030,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+1031,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+1032,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+1033,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+1034,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+1035,Estimate; RACE - One race - Some other race
+1036,Margin of Error; RACE - One race - Some other race
+1037,Percent; RACE - One race - Some other race
+1038,Percent Margin of Error; RACE - One race - Some other race
+1039,Estimate; RACE - Two or more races
+1040,Margin of Error; RACE - Two or more races
+1041,Percent; RACE - Two or more races
+1042,Percent Margin of Error; RACE - Two or more races
+1043,Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+1044,Margin of Error; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+1045,Percent; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+1046,Percent Margin of Error; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+1047,Estimate; RACE - Race alone or in combination with one or more other races - Total population
+1048,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population
+1049,Percent; RACE - Race alone or in combination with one or more other races - Total population
+1050,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population
+1051,Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+1052,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - White
+1053,Percent; RACE - Race alone or in combination with one or more other races - Total population - White
+1054,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - White
+1055,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+1056,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+1057,Percent; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+1058,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+1059,Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+1060,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+1061,Percent; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+1062,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+1063,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+1064,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Asian
+1065,Percent; RACE - Race alone or in combination with one or more other races - Total population - Asian
+1066,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Asian
+1067,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+1068,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+1069,Percent; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+1070,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+1071,Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+1072,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+1073,Percent; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+1074,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+1075,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+1076,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+1077,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+1078,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+1079,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+1080,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+1081,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+1082,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+1083,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+1084,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+1085,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+1086,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+1087,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+1088,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+1089,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+1090,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+1091,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+1092,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+1093,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+1094,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+1095,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+1096,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+1097,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+1098,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+1099,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+1100,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+1101,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+1102,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+1103,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+1104,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+1105,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+1106,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+1107,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+1108,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+1109,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+1110,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+1111,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+1112,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+1113,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+1114,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+1115,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+1116,Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+1117,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+1118,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+1119,Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+1120,Margin of Error; HISPANIC OR LATINO AND RACE - Total housing units
+1121,Percent; HISPANIC OR LATINO AND RACE - Total housing units
+1122,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total housing units
