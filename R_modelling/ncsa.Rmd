@@ -2,7 +2,9 @@
 title: "NCSA"
 author: "Guangya Wan"
 date: "June 25, 2019"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 ---
 ```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
@@ -50,7 +52,6 @@ linear_model = lm(Annual_MIR ~ ., data = data)
 # summary(linear_model)
 ```
 ```{r}
-coef(linear_model)[1:10] ## coefficients of predictors
 summary(linear_model)$r.squared ## R^2 of this model
 summary(linear_model)$sigma ## Residual standard error
 ```
@@ -80,7 +81,6 @@ round(cor(new_data[-181]), 2)[1,1:30]
 new_linear_model = lm(Annual_MIR ~ ., data = new_data)
 ```
 ```{r}
-coef(linear_model)[1:10] ## coefficients of predictors
 summary(new_linear_model)$r.squared ## R^2 of this model
 summary(new_linear_model)$sigma ## Residual standard error
 ```
@@ -90,7 +90,6 @@ sum(mod_cd > 4 / length(mod_cd))
 linear_model_out = lm(Annual_MIR ~ ., data = data,subset = mod_cd < 4 / length(mod_cd))
 ```
 ```{r}
-coef(linear_model_out)[1:10] ## coefficients of predictors
 summary(linear_model_out)$r.squared ## R^2 of this model
 summary(linear_model_out)$sigma ## Residual standard error
 ```
@@ -137,7 +136,7 @@ qqline(resid(boxcox_bic), col = "dodgerblue", lwd = 2)
 ```{r}
 mod_cd = cooks.distance(boxcox_bic)
 sum(mod_cd > 4 / length(mod_cd))
-boxcox_bic = lm(((Annual_MIR ^ 0.2 - 1)  / 0.2) ~ ., data = bic_data,subset = mod_cd < 4 / length(mod_cd) )
+boxcox_bic = lm(((Annual_MIR ^ 0.2 - 1)  / 0.2) ~ ., data = adjr_data,subset = mod_cd < 4 / length(mod_cd) )
 ```
 
 ```{r}
@@ -146,3 +145,5 @@ plot(boxcox_bic)
 ```{r}
 summary(boxcox_bic)
 ```
+
+
