@@ -45,7 +45,7 @@ hist(data$Annual_MIR,
 
 ```{r}
 library(faraway)
-round(cor(data[-181]), 2)[1,1:20] # Correlation of data; as shown in the output, the correlation is large
+round(cor(data[-181]), 2)[1,1:10] # Correlation of data; as shown in the output, the correlation is large
 ```
 ```{r}
 linear_model = lm(Annual_MIR ~ ., data = data)
@@ -74,7 +74,7 @@ write.csv(subset(new_data,subset = mod_cd < 4 / length(mod_cd)),'selected_featur
 
 
 ```{r}
-round(cor(new_data[-181]), 2)[1,1:30]
+round(cor(new_data[-181]), 2)[1,1:10]
 ```
 
 ```{r}
@@ -146,4 +146,35 @@ plot(boxcox_bic)
 summary(boxcox_bic)
 ```
 
+```{r}
+set.seed(101) # Set Seed so that same sample can be reproduced in future also
+# Now Selecting 75% of data as sample from total 'n' rows of the data  
+sample <- sample.int(n = nrow(data), size = floor(.8*nrow(adjr_data)), replace = F)
+train <- adjr_data[sample, ]
+test  <- adjr_data[-sample, ]
+```
+
+
+```{r}
+library(caret)
+model <- train(
+  (Annual_MIR ^ 0.2 - 1)  / 0.2 ~ ., 
+  train,
+  method = "lm",
+  trControl = trainControl(
+    method = "cv", 
+    number = 5,
+    verboseIter = TRUE,
+  )
+)
+```
+```{r}
+summary(model)
+```
+```{r}
+pred =predict(model,test)
+pred[1:10]
+test$Annual_MIR[1:10]
+r_squared(test$Annual_MIR,pred)
+```
 
