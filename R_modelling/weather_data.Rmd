@@ -1,0 +1,70 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+
+```
+
+
+```{r}
+library(reshape2) ##melting dataframes
+library(dplyr) #data wrangling
+library(raster) ##working with raster data
+library(sp) ##manipulationg spatial data
+library(prism) ##prism data access
+```
+
+```{r}
+options(prism.path = "~/prismtmp")
+get_prism_annual(type="tmean" ,years = 2005:2016, keepZip=F)
+```
+
+```{r}
+ls_prism_data()[1:10,]
+```
+
+```{r}
+prism_image(ls_prism_data()[1,1])
+```
+
+
+
+
+```{r}
+library(raster)
+#> Loading required package: sp
+### I got these just by looking at the list output
+j2005 <- ls_prism_data(absPath=T)[1,2]
+j2006 <- ls_prism_data(absPath=T)[2,2]
+## Now we'll load the rasters.
+j2005_rast <- raster(j2005)
+j2006_rast <- raster(j2006)
+## Now we can do simple subtraction to get the anomaly by subtracting 2014 from the 30 year normal map
+
+plot(jnorm_rast)
+
+```
+```{r}
+df <- data.frame(rasterToPoints(j2005_rast))
+m.df <- melt(df, c("x", "y"))
+names(m.df)[1:2] <- c("lon", "lat")
+```
+
+```{r}
+year<-'2005'
+name<-paste0("~/prismtmp", year,".csv")
+write.csv(m.df, name)
+writeRaster(RS, name)
+```
+```{r}
+head(m.df)
+```
+
+```{r}
+ls_prism_data(absPath=T)[2,1]
+```
+```{r}
+m.df
+```
+

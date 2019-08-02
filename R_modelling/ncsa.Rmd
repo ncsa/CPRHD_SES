@@ -1,0 +1,180 @@
+---
+title: "NCSA"
+author: "Guangya Wan"
+date: "June 25, 2019"
+output:
+  html_document:
+    df_print: paged
+---
+---
+```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+options(scipen = 1, digits = 4, width = 80, fig.align = "center")
+```
+# NCSA_WNV Report
+
+## Report outline
+
+I will use statistical model to explore the relationship between social_economical data with the West Nile Virus(approximated by MIR data in this case). I will try linear regression first here, testing and helpfully improving the model by some sort of transformation and selection. I will try other methods later and will update as soon as I get to those steps
+
+## Linear regression
+
+### Summary statistics and visulization
+
+```{r}
+data = read.csv('data.csv')
+```
+
+```{r}
+data[1:10,] # first ten rows of data
+```
+
+
+```{r}
+nrow(data) # number of rows of data
+mean(data[['Annual_MIR']]) # mean of response
+var(data[['Annual_MIR']]) # variance of response
+min(data$Annual_MIR)
+max(data$Annual_MIR)
+hist(data$Annual_MIR,
+      xlab   = "Severity",
+     main   = "Histogram of MIR data",
+     breaks = 100,
+     col    = "dodgerblue",
+     border = "darkorange") # Histogran of response
+```
+
+```{r}
+library(faraway)
+round(cor(data[-181]), 2)[1,1:10] # Correlation of data; as shown in the output, the correlation is large
+```
+```{r}
+linear_model = lm(Annual_MIR ~ ., data = data)
+# summary(linear_model)
+```
+```{r}
+summary(linear_model)$r.squared ## R^2 of this model
+summary(linear_model)$sigma ## Residual standard error
+```
+```{r}
+vf = vif(linear_model)
+```
+```{r}
+good_col = t(data.frame(vf[vf<=5]))
+```
+
+
+```{r}
+new_data = data[colnames(good_col)]
+new_data = cbind(new_data,data['Annual_MIR'])
+```
+
+```{r,eval=FALSE}
+write.csv(subset(new_data,subset = mod_cd < 4 / length(mod_cd)),'selected_features_remove_outliers.csv')
+```
+
+
+```{r}
+round(cor(new_data[-181]), 2)[1,1:10]
+```
+
+```{r}
+new_linear_model = lm(Annual_MIR ~ ., data = new_data)
+```
+```{r}
+summary(new_linear_model)$r.squared ## R^2 of this model
+summary(new_linear_model)$sigma ## Residual standard error
+```
+```{r}
+mod_cd = cooks.distance(new_linear_model)
+sum(mod_cd > 4 / length(mod_cd))
+linear_model_out = lm(Annual_MIR ~ ., data = data,subset = mod_cd < 4 / length(mod_cd))
+```
+```{r}
+summary(linear_model_out)$r.squared ## R^2 of this model
+summary(linear_model_out)$sigma ## Residual standard error
+```
+
+
+```{r}
+library(leaps)
+linear_sub = summary(regsubsets(Annual_MIR ~ ., data  = new_data,really.big = TRUE)) # selected features based on BIC
+```
+```{r}
+best_adjr_col = which(linear_sub$which[which.max(linear_sub$adjr2),])
+```
+
+```{r}
+adjr_data = cbind(new_data[colnames(t(data.frame(best_adjr_col)))[-1]],data['Annual_MIR'])
+```
+```{r}
+adjr_model =  lm(Annual_MIR ~ ., data = adjr_data)
+summary(adjr_model)
+```
+
+
+```{r}
+plot(adjr_model)
+```
+
+```{r}
+library(MASS)
+library(faraway)
+boxcox(adjr_model, plotit = TRUE, lambda = seq(-1.5, 1.5, by = 0.1))
+```
+
+```{r}
+boxcox_bic = lm(((Annual_MIR ^ 0.15 - 1)  / 0.15) ~ ., data = adjr_data)
+```
+
+```{r}
+plot(fitted(boxcox_bic), resid(boxcox_bic), col = "grey", pch = 20,
+     xlab = "Fitted", ylab = "Residuals", main = "Data from Model 3")
+abline(h = 0, col = "darkorange", lwd = 2)
+qqnorm(resid(boxcox_bic), main = "Normal Q-Q Plot, box cox transformation", col = "darkgrey")
+qqline(resid(boxcox_bic), col = "dodgerblue", lwd = 2)
+```
+```{r}
+mod_cd = cooks.distance(boxcox_bic)
+sum(mod_cd > 4 / length(mod_cd))
+boxcox_bic = lm(((Annual_MIR ^ 0.2 - 1)  / 0.2) ~ ., data = adjr_data,subset = mod_cd < 4 / length(mod_cd) )
+```
+
+```{r}
+plot(boxcox_bic)
+```
+```{r}
+summary(boxcox_bic)
+```
+
+```{r}
+set.seed(101) # Set Seed so that same sample can be reproduced in future also
+# Now Selecting 75% of data as sample from total 'n' rows of the data  
+sample <- sample.int(n = nrow(data), size = floor(.8*nrow(adjr_data)), replace = F)
+train <- adjr_data[sample, ]
+test  <- adjr_data[-sample, ]
+```
+
+
+```{r}
+library(caret)
+model <- train(
+  (Annual_MIR ^ 0.2 - 1)  / 0.2 ~ ., 
+  train,
+  method = "lm",
+  trControl = trainControl(
+    method = "cv", 
+    number = 5,
+    verboseIter = TRUE,
+  )
+)
+```
+```{r}
+summary(model)
+```
+```{r}
+pred =predict(model,test)
+pred[1:10]
+test$Annual_MIR[1:10]
+r_squared(test$Annual_MIR,pred)
+```
+
