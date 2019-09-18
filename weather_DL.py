@@ -16,11 +16,12 @@ def download_weather_climate_division(county: str, date_to_start: str):
     else:
         raise ValueError("Must be either Cook or DuPage county.")
 
-    params_mint = json.dumps({"county":fips,
-                           "sdate":start_date,
-                           "edate":end_date,
-                           "grid":21,
-                           "elems":[{"name":"mint","area_reduce":"county_mean"}]})
+    params_mint = {"state":"IL",
+                   "county": fips,
+                   "sdate":start_date,
+                   "edate":end_date,
+                   "grid":21,
+                   "elems":[{"name":"mint","area_reduce":"county_mean"}]}
 
     headers = {"Content-Type": 'application/json'}
 
