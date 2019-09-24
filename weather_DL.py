@@ -9,19 +9,11 @@ def download_weather_climate_division(county: str, date_to_start: str):
     start_date = datetime.strptime(date_to_start, '%Y%m%d').strftime("%Y%m%d")
     end_date = datetime.today().strftime('%Y%m%d')
 
-    if county.lower() == 'cook':
-        fips = '17031'
-    elif county.lower() == 'dupage' or county.lower() == 'du page':
-        fips = '17043'
-    else:
-        raise ValueError("Must be either Cook or DuPage county.")
-
-    params_mint = {"state":"IL",
-                   "county": fips,
-                   "sdate":start_date,
-                   "edate":end_date,
-                   "grid":21,
-                   "elems":[{"name":"mint","area_reduce":"county_mean"}]}
+    params_mint = {"state": "IL",
+                     "sdate": start_date,
+                     "edate": end_date,
+                     "grid": 21,
+                     "elems": [{"name": "mint", "area_reduce": "county_mean"}]}
 
     headers = {"Content-Type": 'application/json'}
 
@@ -36,4 +28,4 @@ def download_weather_climate_division(county: str, date_to_start: str):
         print(e)
 
 
-download_weather_climate_division('cook', '20100101')
+download_weather_climate_division('20190101')
