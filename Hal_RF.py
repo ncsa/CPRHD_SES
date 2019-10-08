@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
                              f1_score)
 
-data = pd.read_sas('/home/jallen17/Downloads/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
+data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 
 x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[[7,8,9,10,16,17,20]]].values
 y_selected = data['wnvbinary'].values
