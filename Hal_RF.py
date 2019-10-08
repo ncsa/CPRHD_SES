@@ -40,7 +40,7 @@ param_grid = {
     'n_estimators': [500, 2000, 4000, 1000]
 }
 CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
-CV_model_RF_3.fit(trainX_sel, trainX_sel)
+CV_model_RF_3.fit(trainX_sel, trainY_sel)
 print("time consumed:", time.time() - time_start)
 
 
