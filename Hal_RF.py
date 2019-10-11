@@ -9,6 +9,7 @@ from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.linear_model import LinearRegression
 from scipy import stats
 from sklearn.metrics import log_loss
+import pickle
 from sklearn.calibration import CalibratedClassifierCV, calibration_curve
 import matplotlib.pyplot as plt
 from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
@@ -64,3 +65,5 @@ def model_RF_test(model_RF, dataX, dataY):
     return None  # Check how many wnv it predicts
 
 model_RF_test(CV_model_RF_3,testX_sel,testY_sel)
+
+pickle.dump(CV_model_RF_3, open('RF_model', 'wb'))
