@@ -14,15 +14,9 @@ from sklearn.calibration import CalibratedClassifierCV, calibration_curve
 import matplotlib.pyplot as plt
 from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
                              f1_score)
-<<<<<<< Updated upstream
-
-data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
-=======
 time_start = time.time()
-data = pd.read_sas('/home/jallen17/Downloads/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
+data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 print("Data read in:", time.time() - time_start)
-
->>>>>>> Stashed changes
 
 time_start = time.time()
 x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[[7,8,9,10,16,17,20]]].values
@@ -61,16 +55,12 @@ param_grid = {
     'min_samples_split': [8, 12],
     'n_estimators': [500, 1000]
 }
-<<<<<<< Updated upstream
-CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=3)
-=======
 
 
 CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
 print("CV model parameterized:", time.time() - time_start)
 
 time_start = time.time()
->>>>>>> Stashed changes
 CV_model_RF_3.fit(trainX_sel, trainY_sel)
 print("CV model fit:", time.time() - time_start)
 
