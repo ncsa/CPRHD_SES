@@ -1,6 +1,6 @@
 # wnv_SES
 
-This is the dev branch where we can combine code before committing it to master
+This is the master branch merged from dev
 
 ## Instruction to run R linear regression (ncsa.RMD):
  ### library needed: 
