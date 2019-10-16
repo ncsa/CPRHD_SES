@@ -11,7 +11,6 @@ from scipy import stats
 from sklearn.metrics import log_loss
 import pickle
 from sklearn.calibration import CalibratedClassifierCV, calibration_curve
-import matplotlib.pyplot as plt
 from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
                              f1_score)
 time_start = time.time()
@@ -70,17 +69,18 @@ def model_RF_test(model_RF, dataX, dataY):
     predict_data = model_RF.predict_proba(dataX)
 
     # Some stats
-    print("Feature Importantce : ")
-    print(model_RF.feature_importances_)
-    print("Total number of WNV occurence in test set : " + str(len(dataY[dataY > 0])))
+    print("Feature Importance : ")
+    print(model_RF.feature_improtances_)
+    print("Total number of WNV occurrence in test set : " + str(len(dataY[dataY > 0])))
 
-    print("Number of WNV occurence the model is able to capture in test set:" + str(
+    print("Number of WNV occurrence the model is able to capture in test set:" + str(
         dataY[np.where(predict_data[:, 1] > 0)].sum()))
 
     print("Log loss : " + str(log_loss(dataY, predict_data)))
 
     print(
-        "This is to test the performance of random forest model, ideally, the logloss is low and also it is able to capture most of the WNV occurence")
+        "This is to test the performance of random forest model, ideally, the logloss is low and also it is able to "
+        "capture most of the WNV occurrence")
 
     return None  # Check how many wnv it predicts
 
