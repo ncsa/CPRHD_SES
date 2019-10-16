@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import numpy as np
 import time
 import scipy.stats as stats
@@ -23,22 +20,13 @@ from sklearn.metrics import roc_auc_score
 from imblearn.over_sampling import RandomOverSampler
 
 
-# In[2]:
-
-
-data = pd.read_sas('/home/jallen17/Downloads/wnv_2245new.sas7bdat') 
-
-
-# In[3]:
-
+data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') 
+print("Checkpoint 1")
 
 x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[[7,8,9,10,15,16,17,20]]]
 y = data['wnvbinary'].values 
 y_selected = y
-
-
-# In[4]:
-
+print("Checkpoint 2")
 
 def model_RF_test(model_RF, dataX, dataY):
     print("Model performance")
@@ -60,15 +48,9 @@ def model_RF_test(model_RF, dataX, dataY):
     
     return None # Check how many wnv it predicts
 
-
-# In[5]:
-
+print("Checkpoint 3")
 
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected.values, y_selected, test_size = 0.2, shuffle = True) # CV
-
-
-# In[6]:
-
 
 
 rus = RandomOverSampler(random_state=0)
@@ -83,16 +65,12 @@ model_RF1 = RandomForestClassifier(n_estimators=500,
                                    class_weight='balanced'
                                  ) # Use undersampling to see if it worked
 model_RF1.fit(X_resampled, y_resampled)
-print("time consumed:", time.time() - time_start) 
-
-
-# In[7]:
+print("Checkpoint 4 - time consumed:", time.time() - time_start) 
 
 
 model_RF_test(model_RF1,testX_sel,testY_sel)
 
 
-# In[ ]:
 
 
 
