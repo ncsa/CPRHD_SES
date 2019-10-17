@@ -54,7 +54,7 @@ trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected.value
 
 
 rus = RandomOverSampler(random_state=0)
-X_resampled, y_resampled = rus.fit_resample(trainX_sel,trainY_sel)
+X_resampled, y_resampled = rus.fit_sample(trainX_sel,trainY_sel)
 time_start = time.time()
 model_RF1 = RandomForestClassifier(n_estimators=500,
                                  n_jobs = -1,

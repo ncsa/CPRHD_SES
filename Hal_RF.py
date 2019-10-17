@@ -69,8 +69,6 @@ def model_RF_test(model_RF, dataX, dataY):
     predict_data = model_RF.predict_proba(dataX)
 
     # Some stats
-    print("Feature Importance : ")
-    print(model_RF.feature_improtances_)
     print("Total number of WNV occurrence in test set : " + str(len(dataY[dataY > 0])))
 
     print("Number of WNV occurrence the model is able to capture in test set:" + str(
@@ -81,6 +79,11 @@ def model_RF_test(model_RF, dataX, dataY):
     print(
         "This is to test the performance of random forest model, ideally, the logloss is low and also it is able to "
         "capture most of the WNV occurrence")
+
+	
+    print("Feature Importance : ")
+    print(model_RF.best_estimator_.feature_importance())
+
 
     return None  # Check how many wnv it predicts
 
