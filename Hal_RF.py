@@ -18,14 +18,14 @@ data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # I
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
-x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[[7,8,9,10,16,17,20]]].values
+x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 
 
 
 time_start = time.time()
-trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, shuffle = True) # CV
+trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, random_state=1) # CV
 print("data split:", time.time() - time_start)
 
 
