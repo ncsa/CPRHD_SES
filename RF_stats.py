@@ -3,8 +3,11 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import log_loss
+from sklearn.metrics import roc_auc_score
 
-
+"""
+This script generates the stats of the model created in RF_model.py
+"""
 
 def model_RF_test(model_RF, dataX, dataY):
     print("Model performance")
@@ -19,6 +22,8 @@ def model_RF_test(model_RF, dataX, dataY):
         dataY[np.where(predict_data[:, 1] > 0)].sum()))
 
     print("Log loss : " + str(log_loss(dataY, predict_data)))
+
+    print("AUC: " + str(roc_auc_score(dataY, predict_data[:,1])))
 
     print(
         "This is to test the performance of random forest model, ideally, the logloss is low and also it is able to "
