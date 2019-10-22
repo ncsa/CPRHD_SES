@@ -18,7 +18,7 @@ data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # I
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
-x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).values
+x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year'])].values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 
