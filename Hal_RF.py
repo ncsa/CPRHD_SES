@@ -1,24 +1,17 @@
 import numpy as np
 import time
-import scipy.stats as stats
 import pandas as pd
-from matplotlib import pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
-from sklearn import metrics
 from sklearn.model_selection import GridSearchCV, train_test_split
-from sklearn.linear_model import LinearRegression
-from scipy import stats
 from sklearn.metrics import log_loss
 import pickle
-from sklearn.calibration import CalibratedClassifierCV, calibration_curve
-from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
-                             f1_score)
+
 time_start = time.time()
-data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
+data = pd.read_sas('/home/jallen17/Downloads/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
-x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year'])].values
+x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[:]].values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 
