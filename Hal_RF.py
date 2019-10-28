@@ -60,7 +60,7 @@ def model_RF_test(model_RF, dataX, dataY):
     predict_data = model_RF.predict_proba(dataX)
     # Some stats
     print("Feature Importance : ")
-    print(model_RF.best_estimator_.feature_improtances_)
+    print(model_RF.best_estimator_.feature_importances_)
     print("Total number of WNV occurrence in test set : " + str(len(dataY[dataY > 0])))
 
     print("Number of WNV occurrence the model is able to capture in test set:" + str(

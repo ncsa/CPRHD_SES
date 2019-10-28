@@ -31,15 +31,15 @@ def model_RF_test(model_RF, dataX, dataY):
 
     return None  # Check how many wnv it predicts
 
-data = pd.read_sas('/home/jallen17/Downloads/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
+data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 
 
 
-x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[[7,8,9,10,16,17,20]]].values
+x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[:]].values
 y_selected = data['wnvbinary'].values
 
 
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, shuffle = True) # CV
 
-loaded_model = pickle.load(open('/home/jallen17/Downloads/RF_model', 'rb'))
+loaded_model = pickle.load(open('/home/jallen17/CPRHD_SES/RF_model', 'rb'))
 model_RF_test(loaded_model, testX_sel, testY_sel)
