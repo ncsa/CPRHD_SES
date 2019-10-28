@@ -7,7 +7,7 @@ from sklearn.metrics import log_loss
 import pickle
 
 time_start = time.time()
-data = pd.read_sas('/home/jallen17/Downloads/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
+data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
@@ -56,6 +56,7 @@ time_start = time.time()
 CV_model_RF_3.fit(trainX_sel, trainY_sel)
 print("CV model fit:", time.time() - time_start)
 
+pickle.dump(CV_model_RF_3, open('RF_model', 'wb'))
 
 def model_RF_test(model_RF, dataX, dataY):
     print("Model performance")
@@ -78,5 +79,3 @@ def model_RF_test(model_RF, dataX, dataY):
     return None  # Check how many wnv it predicts
 
 model_RF_test(CV_model_RF_3,testX_sel,testY_sel)
-
-pickle.dump(CV_model_RF_3, open('RF_model', 'wb'))
