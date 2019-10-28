@@ -15,12 +15,9 @@ x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid'
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 
-
-
 time_start = time.time()
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, random_state=1) # CV
 print("data split:", time.time() - time_start)
-
 
 time_start = time.time()
 model_RF_best_2 = RandomForestClassifier(n_estimators=1500,
@@ -61,10 +58,9 @@ pickle.dump(CV_model_RF_3, open('RF_model', 'wb'))
 def model_RF_test(model_RF, dataX, dataY):
     print("Model performance")
     predict_data = model_RF.predict_proba(dataX)
-
     # Some stats
     print("Feature Importance : ")
-    print(model_RF.feature_improtances_)
+    print(model_RF.best_estimator_.feature_improtances_)
     print("Total number of WNV occurrence in test set : " + str(len(dataY[dataY > 0])))
 
     print("Number of WNV occurrence the model is able to capture in test set:" + str(
@@ -77,5 +73,6 @@ def model_RF_test(model_RF, dataX, dataY):
         "capture most of the WNV occurrence")
 
     return None  # Check how many wnv it predicts
+
 
 model_RF_test(CV_model_RF_3,testX_sel,testY_sel)
