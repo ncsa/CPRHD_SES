@@ -43,7 +43,7 @@ param_grid = {
     'max_features': [4,10],
     'min_samples_leaf': [5,8],
     'min_samples_split': [5,8],
-    'n_estimators': [1000]
+    'n_estimators': [1000],
     'class_weight': [class_weights,None]
 }
 
