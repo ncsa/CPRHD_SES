@@ -12,9 +12,9 @@ data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # I
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
-data = data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year','income1'])
+x = data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year','income1'])
 
-x_selected = data.drop(columns=data.columns[[4,5,25,26,-17,-16,-15,-14,-13,-12,-11,-10,-9,-8,-6]]).values
+x_selected = x.drop(columns=x.columns[[4,5,25,26,-17,-16,-15,-14,-13,-12,-11,-10,-9,-8,-6]]).values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 time_start = time.time()
