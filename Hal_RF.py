@@ -20,7 +20,7 @@ print("Data selected in:", time.time() - time_start)
 time_start = time.time()
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, random_state=1) # CV
 print("data split:", time.time() - time_start)
-class_weights = class_weight.compute_class_weight('balanced' , classes=np.unique(y),y = y)
+class_weights = class_weight.compute_class_weight('balanced' , classes=np.unique(y_selected),y = y_selected)
 time_start = time.time()
 model_RF_best_2 = RandomForestClassifier(n_estimators=1000,
                                  n_jobs = -1,
