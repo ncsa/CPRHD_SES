@@ -52,6 +52,8 @@ param_grid = {
 CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
 print("CV model parameterized:", time.time() - time_start)
 
+class_weights = {0: class_weights[0], 1: class_weights[1]}
+
 time_start = time.time()
 CV_model_RF_3.fit(trainX_sel, trainY_sel)
 print("CV model fit:", time.time() - time_start)
