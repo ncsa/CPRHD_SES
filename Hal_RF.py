@@ -37,7 +37,12 @@ model_RF_best_2.fit(trainX_sel, trainY_sel)
 print("model fit:", time.time() - time_start)
 
 
+
+
 time_start = time.time()
+
+class_weights = {0: class_weights[0], 1: class_weights[1]}
+
 param_grid = {
     'bootstrap': [True],
     'max_depth': [60,100],
@@ -51,8 +56,6 @@ param_grid = {
 
 CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
 print("CV model parameterized:", time.time() - time_start)
-
-class_weights = {0: class_weights[0], 1: class_weights[1]}
 
 time_start = time.time()
 CV_model_RF_3.fit(trainX_sel, trainY_sel)
