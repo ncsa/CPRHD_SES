@@ -82,5 +82,4 @@ def model_RF_test(model_RF, dataX, dataY):
 
     return None  # Check how many wnv it predicts
 
-
 model_RF_test(CV_model_RF_3,testX_sel,testY_sel)
