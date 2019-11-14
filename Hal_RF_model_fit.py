@@ -40,5 +40,5 @@ time_start = time.time()
 model_RF_best_2.fit(trainX_sel, trainY_sel)
 print("model fit:", time.time() - time_start)
 
-pickle.dump(CV_model_RF_3, open('/home/jallen17/CPRHD_SES/RF_model_fit', 'wb'))
+pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_model_fit', 'wb'))
 print("Fitting complete. Model saved as RF_model_fit")

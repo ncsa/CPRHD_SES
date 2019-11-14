@@ -29,7 +29,7 @@ trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_se
 print("data split:", time.time() - time_start)
 
 time_start = time.time()
-
+class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(y_selected), y=y_selected)
 class_weights = {0: class_weights[0], 1: class_weights[1]}
 
 param_grid = {
@@ -51,7 +51,6 @@ CV_model_RF_3.fit(trainX_sel, trainY_sel)
 print("CV model fit:", time.time() - time_start)
 
 pickle.dump(CV_model_RF_3, open('RF_model_CV_final', 'wb'))
-
 
 def model_RF_test(model_RF, dataX, dataY):
     print("Model performance")
