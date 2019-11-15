@@ -22,32 +22,31 @@ x = data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).valu
 y = data['wnvbinary'].values
 trainX, testX, trainY, testY = train_test_split(x, y, test_size = 0.2, random_state = 1)
 
+fig_1 = plt.figure()
 time_start = time.time()
-features = [46,6,15,10]
-plot_partial_dependence(model, trainX[:100], features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+features = [46,6]
+plot_partial_dependence(model, trainX, features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+fig_1.savefig('result1.png')
 print("Time consumed:", time.time() - time_start)
 
+fig_2 = plt.figure()
 time_start = time.time()
-features = [46,6,15,10]
-plot_partial_dependence(model, trainX[:200], features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+features = [15,10]
+plot_partial_dependence(model, trainX, features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+fig_2.savefig('result2.png')
 print("Time consumed:", time.time() - time_start)
 
+fig_3 = plt.figure()
 time_start = time.time()
-features = [19,20,21,22]
-plot_partial_dependence(model, trainX[:100], features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+features = [19,20]
+plot_partial_dependence(model, trainX, features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+fig_3.savefig('result3.png')
 print("Time consumed:", time.time() - time_start)
 
+fig_4 = plt.figure()
 time_start = time.time()
-features = [19,20,21,22]
-plot_partial_dependence(model, trainX[:100], features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+features = [21,22]
+plot_partial_dependence(model, trainX, features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
+fig_4.savefig('result4.png')
 print("Time consumed:", time.time() - time_start)
 
-time_start = time.time()
-features = [19,20,21,22]
-plot_partial_dependence(model, trainX[:1000], features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
-print("Time consumed:", time.time() - time_start)
-
-time_start = time.time()
-features = [(46,10),(20,22)]
-plot_partial_dependence(model, trainX[:500], features, feature_names=data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns)
-print("Time consumed:", time.time() - time_start)
