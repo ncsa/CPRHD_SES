@@ -40,7 +40,7 @@ param_grid = {
     'min_samples_split': [5, 8],
     'n_estimators': [1000],
     'class_weight': [class_weights, None]
-}
+} 
 
 
 CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)

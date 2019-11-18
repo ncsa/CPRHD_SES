@@ -1,3 +1,4 @@
+
 import numpy as np
 import time
 import pandas as pd
@@ -17,11 +18,11 @@ data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat')  # 
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
-x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
+x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year'])
 
 x_selected = x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).values
 y_selected = data['wnvbinary'].values
-print("Data selected in:", time.time() - time_start)
+x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year'])
 time_start = time.time()
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size=0.2, random_state=1) # CV
 print("data split:", time.time() - time_start)
@@ -29,10 +30,11 @@ class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(
 time_start = time.time()
 model_RF_best_2 = RandomForestClassifier(n_estimators=1000,
                                          n_jobs=-1,
-                                         max_features=None,
-                                         max_depth=None,
-                                         bootstrap=True,
-                                         min_samples_leaf=2)
+                                         max_features=5,
+                                         max_depth=60,
+                                         min_samples_leaf = 5,
+                                         min_samples_split = 8,
+                                         bootstrap=True)
 print("Classifier established:", time.time() - time_start)
 
 
