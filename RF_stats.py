@@ -39,7 +39,7 @@ x_selected = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid'
 y_selected = data['wnvbinary'].values
 
 
-trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, shuffle = True) # CV
+trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, random_state  = 1) # CV
 
 loaded_model = pickle.load(open('/home/jallen17/CPRHD_SES/RF_model', 'rb'))
 model_RF_test(loaded_model, testX_sel, testY_sel)

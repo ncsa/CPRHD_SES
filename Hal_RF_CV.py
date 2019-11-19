@@ -34,16 +34,16 @@ class_weights = {0: class_weights[0], 1: class_weights[1]}
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [60, 100],
-    'max_features': [4, 10],
-    'min_samples_leaf': [5, 8],
-    'min_samples_split': [5, 8],
-    'n_estimators': [1000],
-    'class_weight': [class_weights, None]
+    'max_depth': [40, 80],
+    'max_features': [10, 'sqrt'],
+    'min_samples_leaf': [4, 8],
+    'min_samples_split': [4, 8],
+    'n_estimators': [1200],
+    'class_weight': ['balanced']
 } 
 
 
-CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
+CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=4)
 print("CV model parameterized:", time.time() - time_start)
 
 time_start = time.time()

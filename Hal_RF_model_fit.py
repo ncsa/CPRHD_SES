@@ -28,13 +28,15 @@ trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_se
 print("data split:", time.time() - time_start)
 class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(y_selected), y=y_selected)
 time_start = time.time()
-model_RF_best_2 = RandomForestClassifier(n_estimators=1000,
+model_RF_best_2 = RandomForestClassifier(n_estimators=2000,
                                          n_jobs=-1,
                                          max_features=5,
                                          max_depth=60,
                                          min_samples_leaf = 5,
                                          min_samples_split = 8,
-                                         bootstrap=True)
+                                         bootstrap=True,
+                                        class_weight = 'balanced')
+                                            
 print("Classifier established:", time.time() - time_start)
 
 
