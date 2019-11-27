@@ -20,7 +20,7 @@ print("Data read in:", time.time() - time_start)
 time_start = time.time()
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year'])
 
-x_selected = x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).values
+x_selected = x[x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[5,6,7,12,13,14,15,16,17]]].values
 y_selected = data['wnvbinary'].values
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year'])
 time_start = time.time()
@@ -28,14 +28,13 @@ trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_se
 print("data split:", time.time() - time_start)
 class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(y_selected), y=y_selected)
 time_start = time.time()
-model_RF_best_2 = RandomForestClassifier(n_estimators=2000,
+model_RF_best_2 = RandomForestClassifier(n_estimators=1000,
                                          n_jobs=-1,
                                          max_features=5,
                                          max_depth=60,
                                          min_samples_leaf = 5,
                                          min_samples_split = 8,
-                                         bootstrap=True,
-                                        class_weight = 'balanced')
+                                         bootstrap=True)
                                             
 print("Classifier established:", time.time() - time_start)
 
