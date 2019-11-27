@@ -21,7 +21,7 @@ print("Data read in:", time.time() - time_start)
 time_start = time.time()
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
 
-x_selected = x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).values
+x_selected = x[x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[5,6,7,12,13,14,15,16,17]]].values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 time_start = time.time()
@@ -29,17 +29,14 @@ trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_se
 print("data split:", time.time() - time_start)
 
 time_start = time.time()
-class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(y_selected), y=y_selected)
-class_weights = {0: class_weights[0], 1: class_weights[1]}
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [40, 80],
+    'max_depth': [30, 60,120],
     'max_features': [10, 'sqrt'],
-    'min_samples_leaf': [4, 8],
-    'min_samples_split': [4, 8],
-    'n_estimators': [1200],
-    'class_weight': ['balanced']
+    'min_samples_leaf': [6, 12],
+    'min_samples_split': [6, 12],
+    'n_estimators': [1200]
 } 
 
 
