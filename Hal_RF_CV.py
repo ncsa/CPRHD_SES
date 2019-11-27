@@ -65,6 +65,8 @@ def model_RF_test(model_RF, dataX, dataY):
         dataY[np.where(predict_data[:, 1] > 0)].sum()))
 
     print("Log loss : " + str(log_loss(dataY, predict_data)))
+ 
+    print("AUC: " + str(roc_auc_score(dataY, predict_data[:,1])))
 
     print(
         "This is to test the performance of random forest model, ideally, the logloss is low and also it is able to "
