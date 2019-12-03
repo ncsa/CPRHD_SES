@@ -16,13 +16,13 @@ from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
 from sklearn.inspection import plot_partial_dependence
 import pickle
 
-model = pickle.load(open('/home/shared/cprhd/MODELS/RF_model_max','rb')) # Change this line to new model -- RF_model_CV_final_11-27
+model = pickle.load(open('/home/shared/cprhd/MODELS/RF_model_CV_final_11-27','rb')) # Change this line to new model -- RF_model_CV_final_11-27
 data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat')
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
 y = data['wnvbinary'].values
 trainX, testX, trainY, testY = train_test_split(x, y, test_size = 0.2, random_state = 1)
 
-fig_1 = plt.figure()v
+fig_1 = plt.figure()
 time_start = time.time()
 features = [5,9]
 column_names = x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns
