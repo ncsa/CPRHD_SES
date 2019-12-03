@@ -34,7 +34,7 @@ def model_RF_test(model_RF, dataX, dataY):
 data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 
 
-x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year'])
+x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
 
 x_selected = x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).values
 y_selected = data['wnvbinary'].values
@@ -42,5 +42,5 @@ y_selected = data['wnvbinary'].values
 
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, random_state  = 1) # CV
 
-loaded_model = pickle.load(open('/home/jallen17/CPRHD_SES/RF_model', 'rb'))
+loaded_model = pickle.load(open('/home/jallen17/CPRHD_SES/RF_model_CV_final', 'rb'))
 model_RF_test(loaded_model, testX_sel, testY_sel)
