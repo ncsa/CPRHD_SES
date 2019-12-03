@@ -19,8 +19,9 @@ import pickle
 model = pickle.load(open('/home/shared/cprhd/MODELS/RF_model_max','rb')) # Change this line to new model -- RF_model_CV_final_11-27
 data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat')
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
+x_selected_all = x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).values
 y = data['wnvbinary'].values
-trainX, testX, trainY, testY = train_test_split(x, y, test_size = 0.2, random_state = 1)
+trainX, testX, trainY, testY = train_test_split(x_selected_all, y, test_size = 0.2, random_state = 1)
 
 fig_1 = plt.figure()v
 time_start = time.time()
