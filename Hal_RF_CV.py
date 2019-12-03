@@ -21,7 +21,7 @@ print("Data read in:", time.time() - time_start)
 time_start = time.time()
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
 
-x_selected = x[x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[5,6,7,12,13,14,15,16,17]]].values
+x_selected = x[x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[2,4,5,6,7,12,13,14,15,16,17]]].values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 time_start = time.time()
@@ -32,10 +32,10 @@ time_start = time.time()
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [30, 60,120],
-    'max_features': [10, 'sqrt'],
+    'max_depth': [80,120],
+    'max_features': [5, 'sqrt'],
     'min_samples_leaf': [6, 12],
-    'min_samples_split': [6, 12],
+    'min_samples_split': [4, 6],
     'n_estimators': [1200]
 } 
 
