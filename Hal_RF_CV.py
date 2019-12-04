@@ -20,8 +20,8 @@ print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
 x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
-
-x_selected = x[x.drop(columns=x.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[2,4,5,6,7,12,13,14,15,16,17]]].values
+x_test = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[:]]
+x_selected = x[x.drop(columns=x_test.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[2,4,5,6,7,12,13,14,15,16,17]]].values
 y_selected = data['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 time_start = time.time()
