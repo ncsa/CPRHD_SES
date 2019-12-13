@@ -1,11 +1,24 @@
+import pickle
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import log_loss
+from sklearn.metrics import roc_auc_score
 import numpy as np
 import time
+import scipy.stats as stats
 import pandas as pd
+from matplotlib import pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
 from sklearn.model_selection import GridSearchCV, train_test_split
+from sklearn.linear_model import LinearRegression
+from scipy import stats
 from sklearn.metrics import log_loss
-import pickle
-from sklearn.utils import class_weight
+from sklearn.calibration import CalibratedClassifierCV, calibration_curve
+import matplotlib.pyplot as plt
+from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
+                             f1_score)
 
 """
 This code fits the Random Forest model. Cross validation is preformed in another
