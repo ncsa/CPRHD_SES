@@ -3,7 +3,7 @@ import time
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV, train_test_split
-from sklearn.metrics import log_loss
+from sklearn.metrics import log_loss, roc_auc_score
 import pickle
 from sklearn.utils import class_weight
 

@@ -19,6 +19,7 @@ from sklearn.calibration import CalibratedClassifierCV, calibration_curve
 import matplotlib.pyplot as plt
 from sklearn.metrics import (brier_score_loss, precision_score, recall_score,
                              f1_score)
+from sklearn.utils import class_weight
 
 """
 This code fits the Random Forest model. Cross validation is preformed in another
@@ -26,9 +27,9 @@ script.
 """
 
 time_start = time.time()
-data = pd.read_csv('/home/guangya/Downloads/Agg_mirdata (1).csv',index_col = False)  # Need to edit this line, the agg_mirdata in on the box, uploaded by shubham
+data = pd.read_csv('/home/shared/cprhd/DATA_CPRHD_SES/Agg_mirdata.csv',index_col = False)  # Need to edit this line, the agg_mirdata in on the box, uploaded by shubham
 print("Data read in:", time.time() - time_start)
-agg = agg.drop(columns= agg.columns[[1,5,7,6,8,9,10,11,12,15,16,17,18,-1,-6]])
+agg = data.drop(columns= data.columns[[1,5,7,6,8,9,10,11,12,15,16,17,18,-1,-6]])
 agg.iloc[3900]['wnvbinary'] = 1 # Only exceptions
 agg_wnv = agg[agg.wnvbinary == 1]
 agg_0 = agg[agg.wnvbinary == 0]
@@ -61,6 +62,6 @@ time_start = time.time()
 model_RF_best_2.fit(trainX_sel, trainY_sel)
 print("model fit:", time.time() - time_start)
 
-pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_model_fit', 'wb'))
+pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_agg_model_fit', 'wb'))
 print("Fitting complete. Model saved as RF_model_fit")
 
