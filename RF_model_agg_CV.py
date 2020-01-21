@@ -32,6 +32,7 @@ data = pd.read_csv('/home/shared/cprhd/DATA_CPRHD_SES/Agg_mirdata.csv',index_col
 print("Data read in:", time.time() - time_start)
 agg = data.drop(columns= data.columns[[1,5,7,6,8,9,10,11,12,15,16,17,18,-1,-6]])
 agg.iloc[3900]['wnvbinary'] = 1 # Only exceptions
+agg = agg.drop(columns = 'hexid')
 agg_wnv = agg[agg.wnvbinary == 1]
 agg_0 = agg[agg.wnvbinary == 0]
 l = []
@@ -41,7 +42,7 @@ for x in agg.columns:
     if(value < 0.01):
         l.append(x)
 data = agg[l]
-data = data.drop(columns = 'hexid')
+
 x_selected = data.drop(columns = 'wnvbinary')
 y_selected = data['wnvbinary'].values
 
@@ -50,11 +51,11 @@ print("data split:", time.time() - time_start)
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [50,100],
+    'max_depth': [60,80,100],
     'max_features': ['sqrt'],
-    'min_samples_leaf': [6, 12],
-    'min_samples_split': [4,8],
-    'n_estimators': [1200]
+    'min_samples_leaf': [6,8,10],
+    'min_samples_split': [4,6,8],
+    'n_estimators': [1400,1600]
 } 
 
 
