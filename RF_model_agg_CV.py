@@ -49,15 +49,15 @@ print("data split:", time.time() - time_start)
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [60,80],
+    'max_depth': [50,100],
     'max_features': ['sqrt'],
-    'min_samples_leaf': [8, 12],
-    'min_samples_split': [6,10],
+    'min_samples_leaf': [6, 12],
+    'min_samples_split': [4,8],
     'n_estimators': [1200]
 } 
 
 
-CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=4)
+CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
 print("CV model parameterized:", time.time() - time_start)
 
 time_start = time.time()
