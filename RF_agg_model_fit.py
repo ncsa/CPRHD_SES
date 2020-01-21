@@ -40,6 +40,7 @@ for x in agg.columns:
     if(value < 0.01):
         l.append(x)
 data = agg[l]
+data = data.drop(columns = 'hexid')
 x_selected = data.drop(columns = 'wnvbinary')
 y_selected = data['wnvbinary'].values
 
