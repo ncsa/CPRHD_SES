@@ -18,8 +18,8 @@ print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
 x = data.drop(columns=['yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid','PopYesNo'])
-x_selected = x[(x.weeks >= 22) & (x.weeks <= 31)].drop(columns = 'wnvbinary') # 
-y_selected = x['wnvbinary'].values
+x_selected = x[(x.weeks >= 22) & (x.weeks <= 31)].drop(columns = 'wnvbinary').values # 
+y_selected = x[(x.weeks >= 22) & (x.weeks <= 31)]['wnvbinary'].values
 
 time_start = time.time()
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size=0.2, random_state=1) # CV
