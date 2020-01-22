@@ -74,7 +74,7 @@ def model_RF_test(model_RF, dataX, dataY, selectedX):
 
     # Some stats
     print("Feature Importance : ")
-    feature_importances = pd.DataFrame(model_RF.feature_importances_, index = selectedX.columns, columns=['importance'])
+    feature_importances = pd.DataFrame(model_RF.best_estimator_.feature_importances_, index = selectedX.columns, columns=['importance'])
     print(model_RF.best_estimator_.feature_importances_)
     print("Total number of WNV occurrence in test set : " + str(len(dataY[dataY > 0])))
 
