@@ -17,7 +17,7 @@ data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat')  # 
 print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
-x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid'])
+x_test = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid'])
 x_selected = x_test[(x_test.weeks >= 22) & (x_test.weeks <= 31)] # 
 y_selected = data['wnvbinary'].values
 

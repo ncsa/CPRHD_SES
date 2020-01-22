@@ -1,5 +1,5 @@
 import pickle
-import numpy as np
+imprt numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import log_loss
@@ -34,14 +34,30 @@ def model_RF_test(model_RF, dataX, dataY, table):
 
 data = pd.read_sas('/home/shared/cprhd/DATA_CPRHD_SES/wnv_2245new.sas7bdat') # In the Cook_Dupage Directory
 
-x = data.drop(columns=['wnvbinary', 'yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1'])
-x_test = data[data.drop(columns=['wnvbinary','yrweeks','yrwksfid','yr_hexid','year']).columns[:]]
+agg = data.drop(columns= data.columns[[1,5,7,6,8,9,10,11,12,15,16,17,18,-1,-6]])
+agg.iloc[3900]['wnvbinary'] = 1 # Only exceptions
+agg = agg.drop(columns = 'hexid')
+agg_wnv = agg[agg.wnvbinary == 1]
+agg_0 = agg[agg.wnvbinary == 0]
 
-x_selected = x[x.drop(columns=x_test.columns[[4, 5, 25, 26, -17, -16, -15, -14, -13, -12, -11, -10, -9, -8, -6]]).columns[[2,4,5,6,7,12,13,14,15,16,17]]].values
+l = []
+for x in agg.columns:
+    print(x + ': ' + str(stats.ks_2samp(agg_wnv[x], agg_0[x])[1]))
+    value = stats.ks_2samp(agg_wnv[x], agg_0[x])[1]
+    if(value < 0.01):
+        l.append(x)
+data = agg[l]
+
+x_selected = data.drop(columns = 'wnvbinary')
 y_selected = data['wnvbinary'].values
+
+trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size=0.2, random_state=1) # CV
+print("data split:", time.time() - time_start)
+
+
 
 
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size = 0.2, random_state  = 1) # CV
 
-loaded_model = pickle.load(open('/home/jallen17/CPRHD_SES/RF_agg_model_CV_final', 'rb'))
+loaded_model = pickle.load(open('/home/jallen17/CPRHD_SES/RF_agg_model_fit', 'rb'))
 model_RF_test(loaded_model, testX_sel, testY_sel, x_selected)
