@@ -20,8 +20,14 @@ print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
 x = data.drop(columns=['yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid','PopYesNo'])
-x_selected = x[(x.weeks >= 22) & (x.weeks <= 31)].drop(columns = 'wnvbinary').values # 
-y_selected = x[(x.weeks >= 22) & (x.weeks <= 31)]['wnvbinary'].values
+x_small = x[(x.weeks >= 22) & (x.weeks <= 31)]
+columns = ['tempc', 'preci', 'templag1', 'templag2', 'templag3', 'templag4',
+       'precilag1', 'precilag2', 'precilag3', 'precilag4', 'mirmean',
+       'mirlag1', 'mirlag2', 'mirlag3', 'mirlag4', 'totpop', 'whitepct',
+       'blackpct', 'asianpct', 'Income', 'dlipct', 'dmipct', 'dhipct',
+       'Jantemp', 'hpctpreww', 'hpctpostww', 'hpct7089', 'hpctpost90']
+x_selected = x_small[columns].values
+y_selected = x_small['wnvbinary'].values
 print("Data selected in:", time.time() - time_start)
 time_start = time.time()
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size=0.2, random_state=1) # CV
@@ -31,11 +37,11 @@ time_start = time.time()
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [60,80],
-    'max_features': ['sqrt'],
-    'min_samples_leaf': [8],
-    'min_samples_split': [4],
-    'n_estimators': [1300,1500]
+    'max_depth': [60],
+    'max_features': ['sqrt','auto'],
+    'min_samples_leaf': [10,15],
+    'min_samples_split': [2,4,6],
+    'n_estimators': [1300]
 } 
 
 

@@ -18,8 +18,14 @@ print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
 x = data.drop(columns=['yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid','PopYesNo'])
-x_selected = x[(x.weeks >= 22) & (x.weeks <= 31)].drop(columns = 'wnvbinary').values # 
-y_selected = x[(x.weeks >= 22) & (x.weeks <= 31)]['wnvbinary'].values
+x_small = x[(x.weeks >= 22) & (x.weeks <= 31)]
+columns = ['tempc', 'preci', 'templag1', 'templag2', 'templag3', 'templag4',
+       'precilag1', 'precilag2', 'precilag3', 'precilag4', 'mirmean',
+       'mirlag1', 'mirlag2', 'mirlag3', 'mirlag4', 'totpop', 'whitepct',
+       'blackpct', 'asianpct', 'Income', 'dlipct', 'dmipct', 'dhipct',
+       'Jantemp', 'hpctpreww', 'hpctpostww', 'hpct7089', 'hpctpost90']
+x_selected = x_small[columns].values
+y_selected = x_small['wnvbinary'].values
 
 time_start = time.time()
 trainX_sel, testX_sel, trainY_sel, testY_sel = train_test_split(x_selected, y_selected, test_size=0.2, random_state=1) # CV
@@ -28,10 +34,10 @@ class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(
 time_start = time.time()
 model_RF_best_2 = RandomForestClassifier(n_estimators=1300,
                                          n_jobs=-1,
-                                         max_features='sqrt',
-                                         max_depth=70,
-                                         min_samples_leaf = 9,
-                                         min_samples_split = 5,
+                                         max_features='auto',
+                                         max_depth=60,
+                                         min_samples_leaf = 12,
+                                         min_samples_split = 4,
                                          bootstrap=True)
                                             
 print("Classifier established:", time.time() - time_start)
