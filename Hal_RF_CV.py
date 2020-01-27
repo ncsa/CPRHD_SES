@@ -37,15 +37,13 @@ time_start = time.time()
 
 param_grid = {
     'bootstrap': [True],
-    'max_depth': [60],
-    'max_features': ['sqrt','auto'],
-    'min_samples_leaf': [10,15],
-    'min_samples_split': [2,4,6],
+    'max_depth': [40,50,60,70],
+    'min_samples_leaf': [10,12,14,16,18,20],
     'n_estimators': [1300]
 } 
 
 
-CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=4)
+CV_model_RF_3 = GridSearchCV(model_RF_best_2, param_grid, scoring='neg_log_loss', cv=5)
 print("CV model parameterized:", time.time() - time_start)
 
 time_start = time.time()
@@ -67,7 +65,7 @@ def model_RF_test(model_RF, dataX, dataY):
         dataY[np.where(predict_data[:, 1] > 0)].sum()))
 
     print("Log loss : " + str(log_loss(dataY, predict_data)))
- 
+
     print("AUC: " + str(roc_auc_score(dataY, predict_data[:,1])))
 
     print(

@@ -34,10 +34,8 @@ class_weights = class_weight.compute_class_weight('balanced', classes=np.unique(
 time_start = time.time()
 model_RF_best_2 = RandomForestClassifier(n_estimators=1300,
                                          n_jobs=-1,
-                                         max_features='auto',
                                          max_depth=60,
-                                         min_samples_leaf = 12,
-                                         min_samples_split = 4,
+                                         min_samples_leaf = 15,
                                          bootstrap=True)
                                             
 print("Classifier established:", time.time() - time_start)
