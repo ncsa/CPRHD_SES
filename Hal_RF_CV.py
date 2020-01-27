@@ -60,10 +60,11 @@ def model_RF_test(model_RF, dataX, dataY):
     print("Feature Importance : ")
     print(model_RF.best_estimator_.feature_importances_)
     print("Total number of WNV occurrence in test set : " + str(len(dataY[dataY > 0])))
-
+    
     print("Number of WNV occurrence the model is able to capture in test set:" + str(
         dataY[np.where(predict_data[:, 1] > 0)].sum()))
-
+    print('model best parameters')
+    print(model_RF.get_params)
     print("Log loss : " + str(log_loss(dataY, predict_data)))
 
     print("AUC: " + str(roc_auc_score(dataY, predict_data[:,1])))
