@@ -36,10 +36,11 @@ print("data split:", time.time() - time_start)
 time_start = time.time()
 
 param_grid = {
+    'min_samples_split': [2,3,4],
     'bootstrap': [True],
-    'max_depth': [40,50,60,70],
-    'min_samples_leaf': [10,12,14,16,18,20],
-    'n_estimators': [1300]
+    'max_depth': [50,60,70],
+    'min_samples_leaf': [10,15,20],
+    'n_estimators': [1100,1300,1500]
 } 
 
 
