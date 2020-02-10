@@ -18,12 +18,11 @@ print("Data read in:", time.time() - time_start)
 
 time_start = time.time()
 x = data.drop(columns=['yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid','PopYesNo'])
+
+
 x_small = x[(x.weeks >= 22) & (x.weeks <= 31)]
-columns = ['tempc', 'preci', 'templag1', 'templag2', 'templag3', 'templag4',
-       'precilag1', 'precilag2', 'precilag3', 'precilag4', 'mirmean',
-       'mirlag1', 'mirlag2', 'mirlag3', 'mirlag4', 'totpop', 'whitepct',
-       'blackpct', 'asianpct', 'Income', 'dlipct', 'dmipct', 'dhipct',
-       'Jantemp', 'hpctpreww', 'hpctpostww', 'hpct7089', 'hpctpost90']
+columns = ['templag3', 'templag4', 'precilag2', 'mirmean', 'mirlag1',
+       'totpop', 'dlipct']
 x_selected = x_small[columns].values
 y_selected = x_small['wnvbinary'].values
 
@@ -45,5 +44,5 @@ time_start = time.time()
 model_RF_best_2.fit(trainX_sel, trainY_sel)
 print("model fit:", time.time() - time_start)
 
-pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_model_fit', 'wb'))
+pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_model_fit_2_3', 'wb'))
 print("Fitting complete. Model saved as RF_model_fit")
