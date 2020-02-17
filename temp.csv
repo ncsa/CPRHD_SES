@@ -1,0 +1,29 @@
+,feature_name,description,feature_importance
+0,tempc,weekly mean temperature (C),0.032908165030362646
+1,preci,weekly mean precipitation (mm),0.030578592319595463
+2,templag1,temperature lag 1 week,0.03251308673297159
+3,templag2,temperature lag 2 weeks,0.032792136332348384
+4,templag3,temperature lag 3 weeks,0.03920109862019486
+5,templag4,temperature lag 4 weeks,0.0650228107117618
+6,precilag1,precipitation lag 1 week,0.026727464801666847
+7,precilag2,precipitation lag 2 weeks,0.04256038467465682
+8,precilag3,precipitation lag 3 weeks,0.03522657741757443
+9,precilag4,precipitation lag 4 weeks,0.03197406678788396
+10,mirmean,mean mosquito infection rate,0.046062289430418804
+11,mirlag1,mosquito infection rate lag 1 week,0.042777158878704064
+12,mirlag2,mosquito infection rate lag 2 weeks,0.03295285912428147
+13,mirlag3,mosquito infection rate lag 3 weeks,0.038433587977460236
+14,mirlag4,mosquito infection rate lag 4 weeks,0.03676655304388028
+15,totpop,total human population,0.04777850921523653
+16,whitepct,% white,0.029124722614890398
+17,blackpct,% black,0.026060664201854978
+18,asianpct,% asian,0.02857975181573677
+19,Income,average household income,0.03566302103895211
+20,dlipct,developed low intensity percent,0.057286857527261155
+21,dmipct,developed medium intensity percent,0.02739528796127749
+22,dhipct,developed high intensity percent,0.025562244804190167
+23,Jantemp,mean temperature in January,0.03586228357056046
+24,hpctpreww,housing % pre world-war 2,0.036194224687667725
+25,hpctpostww,housing % post world-war 2 (1945-1969),0.028671694648456158
+26,hpct7089,housing % 1970-1989,0.02796773681331908
+27,hpctpost90,housing % post 1990,0.027356169216835292

@@ -19,11 +19,8 @@ print("Data read in:", time.time() - time_start)
 x = data.drop(columns=['yrweeks', 'yrwksfid', 'yr_hexid', 'year', 'income1','hexid','PopYesNo'])
 
 
-columns = ['tempc', 'preci', 'templag1', 'templag2',
-       'templag3', 'templag4', 'precilag1', 'precilag2', 'precilag3',
-       'precilag4', 'mirmean', 'mirlag1', 'mirlag2', 'mirlag3', 'mirlag4',
-       'totpop', 'dlipct', 'dmipct', 'Jantemp', 'hpctpreww', 'hpctpostww',
-       'hpct7089']
+columns = ['templag1', 'templag2', 'templag4', 'mirlag1', 'mirlag2',
+       'mirlag3', 'mirlag4', 'totpop']
 x_selected = x[columns].values
 y_selected = x['wnvbinary'].values
 
@@ -43,5 +40,5 @@ print("Classifier established:", time.time() - time_start)
 model_RF_best_2.fit(trainX_sel, trainY_sel)
 print("model fit:", time.time() - time_start)
 
-pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_model_1_2_fit', 'wb'))
+pickle.dump(model_RF_best_2, open('/home/jallen17/CPRHD_SES/RF_model_1_3_fit', 'wb'))
 print("Fitting complete. Model saved as RF_model_fit")
