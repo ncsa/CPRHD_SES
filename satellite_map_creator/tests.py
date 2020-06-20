@@ -1,4 +1,4 @@
-from hugegmaps import create_map
+from satellite_map_creator import create_map
 
 def test_calibration():
     """Quick single screenshot of Philly Art Museum for calibration.
