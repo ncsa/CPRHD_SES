@@ -1,39 +1,12 @@
-# wnv_SES
+This program helps users to create huge satellite imagery at a high zoom level. The work is based on https://github.com/rocheio/huge-gmaps. Refer to this page if you want more detailed background. 
 
-This is the master branch merged from dev
+Requirements:
+1. Python 3
+2. Google Map API key
+3. Path to save the output images
 
-## Instruction to run R linear regression (ncsa.RMD):
- ### library needed: 
-install.packages('faraway')
+After modifying satellite_map_creator.py, run tests.py to see the output.  
 
-install.packages('MASS')
-
-install.packages('leaps')
-
-install.packages('caret') 
-
-Install R and R studio. Open the R markdown files via R studio. Run these codes before excuating. It should work if system has depencies installed, 
-or otherwise google it.
-
-The files I used to build the model is 'data.csv', which is Under the path Data/R_model_data/. 
-
-Noted that the code should get an error if you run it without changing the path of 'data.csv' when reading it. Change the path to where it is in your PC.
-
-## Instrcution to run R weather data(weather_data.RMD)
-
-### library needed: 
-
-library(reshape2) ##melting dataframes
-
-library(dplyr) #data wrangling
-
-library(raster) ##working with raster data
-
-library(sp) ##manipulationg spatial data
-
-library(prism) ##prism data access
-
-The code should be able to run without any modification once you install or libraies successfully. However, you need to wait until they install all data needed. The path I put those installed data is "~/prismtmp", you can manually change them if you want.
-
-
+Author: Tao Zang
+Date: Jun 19, 2020
 
