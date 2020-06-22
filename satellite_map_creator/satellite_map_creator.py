@@ -72,12 +72,13 @@ def create_map(lat_start: float, long_start: float,
 
 def calc_latitude_shift() -> float:
     """Return the amount to shift latitude per row of map tiles."""
-    return -0.0003173 * 2
-
+    # return -0.0003173 * 2
+    return -0.000325 * 2
 
 def calc_longitude_shift() -> float:
     """Return the amount to shift longitude per column of map tiles."""
-    return 0.00042 * 2
+    # return 0.00042 * 2
+    return 0.000428 * 2
 
 
 def scale_image(image: Image, scale: float) -> Image:
