@@ -1,0 +1,1238 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data_1003/test/img-33_42.039688,-87.908496.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.405943, "center_y":0.506252, "width":0.241572, "height":0.212684}, "confidence":0.405164}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.944238, "center_y":0.449225, "width":0.095183, "height":0.205341}, "confidence":0.323521}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.137852, "center_y":0.554331, "width":0.205867, "height":0.346692}, "confidence":0.987298}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.710342, "center_y":0.514436, "width":0.214787, "height":0.168200}, "confidence":0.941400}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.413247, "center_y":0.496745, "width":0.279477, "height":0.241888}, "confidence":0.848989}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.944898, "center_y":0.442671, "width":0.102346, "height":0.206605}, "confidence":0.417886}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data_1003/test/image-177_42.151028_-87.880353.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.642301, "center_y":0.623549, "width":0.334910, "height":0.215319}, "confidence":0.978917}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.217436, "center_y":0.650713, "width":0.338124, "height":0.172959}, "confidence":0.962548}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data_1003/test/image-301_42.148427999999996_-87.888913.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.224486, "center_y":0.751042, "width":0.324192, "height":0.260048}, "confidence":0.992426}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.522736, "center_y":0.850972, "width":0.278949, "height":0.311855}, "confidence":0.974883}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.104353, "center_y":0.054921, "width":0.214030, "height":0.107336}, "confidence":0.548291}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data_1003/test/image-356_42.07994_-87.849105.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.851783, "center_y":0.667501, "width":0.302508, "height":0.156486}, "confidence":0.829988}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.761036, "center_y":0.263383, "width":0.125328, "height":0.261830}, "confidence":0.731605}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.031768, "center_y":0.216483, "width":0.063884, "height":0.336976}, "confidence":0.369511}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data_1003/test/image-194_42.147127999999995_-87.891481.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.628963, "center_y":0.325257, "width":0.373118, "height":0.340199}, "confidence":0.996124}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.373687, "center_y":0.572845, "width":0.279976, "height":0.257786}, "confidence":0.971180}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.430195, "center_y":0.900448, "width":0.312953, "height":0.163591}, "confidence":0.970665}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.261840, "center_y":0.056569, "width":0.254577, "height":0.115656}, "confidence":0.735243}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.926542, "center_y":0.331842, "width":0.138970, "height":0.305111}, "confidence":0.554946}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data_1003/test/image-254_42.146477999999995_-87.882065.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.455923, "center_y":0.706250, "width":0.262652, "height":0.358633}, "confidence":0.968689}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.804623, "center_y":0.701913, "width":0.277425, "height":0.281010}, "confidence":0.884236}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data_1003/test/image-339_41.664575_-87.657144.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.659736, "center_y":0.631047, "width":0.209370, "height":0.090486}, "confidence":0.872927}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.620223, "center_y":0.468293, "width":0.148404, "height":0.109178}, "confidence":0.860369}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.657131, "center_y":0.796711, "width":0.220021, "height":0.102057}, "confidence":0.859088}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.743266, "center_y":0.297787, "width":0.492692, "height":0.146758}, "confidence":0.853126}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.629912, "center_y":0.954394, "width":0.154234, "height":0.083925}, "confidence":0.837666}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.034554, "center_y":0.455547, "width":0.064581, "height":0.104960}, "confidence":0.370407}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.041496, "center_y":0.791652, "width":0.075615, "height":0.110437}, "confidence":0.250774}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data_1003/test/image-122_42.147777999999995_-87.88548899999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.872476, "center_y":0.653536, "width":0.253676, "height":0.228583}, "confidence":0.976759}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.224157, "center_y":0.652389, "width":0.252241, "height":0.219021}, "confidence":0.969607}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.560730, "center_y":0.626993, "width":0.288038, "height":0.205846}, "confidence":0.946796}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.642530, "center_y":0.045095, "width":0.290070, "height":0.094727}, "confidence":0.440897}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data_1003/test/img-88_42.037738,-87.89995599999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.320796, "center_y":0.732564, "width":0.271526, "height":0.179660}, "confidence":0.944495}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.328629, "center_y":0.113123, "width":0.343290, "height":0.232868}, "confidence":0.898982}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.653220, "center_y":0.113265, "width":0.187299, "height":0.266158}, "confidence":0.882610}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.242094, "center_y":0.939415, "width":0.143727, "height":0.118058}, "confidence":0.470656}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.259320, "center_y":0.526127, "width":0.134662, "height":0.163453}, "confidence":0.442951}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.330446, "center_y":0.946138, "width":0.301507, "height":0.098568}, "confidence":0.346101}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.882860, "center_y":0.053376, "width":0.204695, "height":0.111783}, "confidence":0.278724}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data_1003/test/image-265_42.145177999999994_-87.877785.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.134737, "center_y":0.633522, "width":0.243922, "height":0.409771}, "confidence":0.517865}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.879108, "center_y":0.897338, "width":0.218566, "height":0.211016}, "confidence":0.314563}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.586350, "center_y":0.745749, "width":0.136437, "height":0.282053}, "confidence":0.250422}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.131366, "center_y":0.413147, "width":0.221233, "height":0.943388}, "confidence":0.270201}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data_1003/test/image-164_41.662625_-87.65457599999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.706937, "center_y":0.904525, "width":0.436077, "height":0.124176}, "confidence":0.872765}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.681945, "center_y":0.758193, "width":0.456910, "height":0.135558}, "confidence":0.753487}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data_1003/test/image-133_42.147777999999995_-87.878641.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.110103, "center_y":0.346045, "width":0.241569, "height":0.314863}, "confidence":0.967647}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.272488, "center_y":0.136868, "width":0.333016, "height":0.236354}, "confidence":0.542157}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data_1003/test/img-44_42.039688,-87.899102.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.086184, "center_y":0.061572, "width":0.160475, "height":0.108922}, "confidence":0.537400}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.794922, "center_y":0.573989, "width":0.168701, "height":0.618235}, "confidence":0.985882}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.596317, "center_y":0.573287, "width":0.154309, "height":0.694559}, "confidence":0.956210}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.794562, "center_y":0.136317, "width":0.121341, "height":0.267153}, "confidence":0.846321}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.599811, "center_y":0.134963, "width":0.156127, "height":0.246027}, "confidence":0.526808}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data_1003/test/image-85_42.07669_-87.847393.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.813585, "center_y":0.634514, "width":0.340499, "height":0.265845}, "confidence":0.981959}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.722770, "center_y":0.290050, "width":0.221003, "height":0.234313}, "confidence":0.954129}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.082066, "center_y":0.718139, "width":0.148692, "height":0.374276}, "confidence":0.953265}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.051290, "center_y":0.366640, "width":0.105394, "height":0.231332}, "confidence":0.554516}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.805252, "center_y":0.912538, "width":0.226871, "height":0.144090}, "confidence":0.336770}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data_1003/test/image-372_41.668475_-87.648584.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.455511, "center_y":0.600792, "width":0.219635, "height":0.090617}, "confidence":0.943890}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.427489, "center_y":0.472454, "width":0.164492, "height":0.113025}, "confidence":0.710505}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.554035, "center_y":0.057194, "width":0.480309, "height":0.107789}, "confidence":0.476458}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.929024, "center_y":0.490173, "width":0.113582, "height":0.140301}, "confidence":0.342367}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data_1003/test/img-83_42.037738,-87.904226.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.775431, "center_y":0.318352, "width":0.197654, "height":0.417806}, "confidence":0.335868}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.262621, "center_y":0.324563, "width":0.211831, "height":0.404048}, "confidence":0.991041}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.529858, "center_y":0.315863, "width":0.262179, "height":0.383159}, "confidence":0.987059}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.075212, "center_y":0.328882, "width":0.135114, "height":0.331277}, "confidence":0.969329}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.087878, "center_y":0.784101, "width":0.167481, "height":0.375461}, "confidence":0.942382}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.293109, "center_y":0.783994, "width":0.229858, "height":0.423800}, "confidence":0.780395}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.520243, "center_y":0.795161, "width":0.205525, "height":0.438479}, "confidence":0.650728}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data_1003/test/image-232_42.152328_-87.88634499999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.555313, "center_y":0.174525, "width":0.467116, "height":0.317959}, "confidence":0.958896}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.132894, "center_y":0.086479, "width":0.258523, "height":0.186705}, "confidence":0.883436}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.449571, "center_y":0.822701, "width":0.398925, "height":0.397660}, "confidence":0.854301}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.084315, "center_y":0.746186, "width":0.160075, "height":0.514294}, "confidence":0.688068}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.895856, "center_y":0.401312, "width":0.209188, "height":0.482540}, "confidence":0.606559}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data_1003/test/image-193_42.147127999999995_-87.889769.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.414755, "center_y":0.715299, "width":0.287702, "height":0.291715}, "confidence":0.987134}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.721500, "center_y":0.602324, "width":0.400284, "height":0.288291}, "confidence":0.986225}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.108761, "center_y":0.062573, "width":0.209961, "height":0.122927}, "confidence":0.522985}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.073318, "center_y":0.702197, "width":0.145463, "height":0.301244}, "confidence":0.471593}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.939485, "center_y":0.410958, "width":0.096799, "height":0.320754}, "confidence":0.275333}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data_1003/test/img-114_42.036438,-87.90337199999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.602465, "center_y":0.716087, "width":0.228156, "height":0.243060}, "confidence":0.834540}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.322271, "center_y":0.340464, "width":0.395036, "height":0.342819}, "confidence":0.824929}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.407625, "center_y":0.496324, "width":0.518490, "height":0.332181}, "confidence":0.749130}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.133336, "center_y":0.898592, "width":0.247612, "height":0.181711}, "confidence":0.650830}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.669944, "center_y":0.928013, "width":0.218003, "height":0.147707}, "confidence":0.629829}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.513779, "center_y":0.475483, "width":0.232295, "height":0.230368}, "confidence":0.315191}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data_1003/test/image-108_42.146477999999995_-87.888057.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.796108, "center_y":0.160627, "width":0.242842, "height":0.313715}, "confidence":0.985088}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.829018, "center_y":0.460428, "width":0.317726, "height":0.278857}, "confidence":0.984993}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.140173, "center_y":0.302449, "width":0.263990, "height":0.347342}, "confidence":0.977673}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.852847, "center_y":0.763499, "width":0.244452, "height":0.325946}, "confidence":0.919915}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.074274, "center_y":0.596156, "width":0.165427, "height":0.335818}, "confidence":0.804892}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.246132, "center_y":0.060815, "width":0.308464, "height":0.115695}, "confidence":0.599387}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.057154, "center_y":0.895111, "width":0.123807, "height":0.207441}, "confidence":0.512204}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data_1003/test/img-151_42.034487999999996,-87.910204.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.747724, "center_y":0.334683, "width":0.195990, "height":0.194161}, "confidence":0.976277}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.814233, "center_y":0.604529, "width":0.298925, "height":0.206030}, "confidence":0.964942}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.804281, "center_y":0.097385, "width":0.322351, "height":0.187638}, "confidence":0.946444}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.093230, "center_y":0.715607, "width":0.155769, "height":0.198257}, "confidence":0.918961}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.084889, "center_y":0.145087, "width":0.167888, "height":0.175679}, "confidence":0.853676}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.084856, "center_y":0.925858, "width":0.165577, "height":0.132772}, "confidence":0.813361}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.777172, "center_y":0.850616, "width":0.138816, "height":0.193192}, "confidence":0.616533}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data_1003/test/image-44_41.663275_-87.658856.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.609013, "center_y":0.237644, "width":0.167740, "height":0.086481}, "confidence":0.918555}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.561539, "center_y":0.108383, "width":0.284980, "height":0.103552}, "confidence":0.869891}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data_1003/test/image-225_41.666525_-87.652008.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.227985, "center_y":0.517691, "width":0.174056, "height":0.095188}, "confidence":0.944316}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.253601, "center_y":0.374405, "width":0.264684, "height":0.111604}, "confidence":0.930577}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.953228, "center_y":0.621719, "width":0.084359, "height":0.114896}, "confidence":0.890628}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.226232, "center_y":0.695274, "width":0.159373, "height":0.094514}, "confidence":0.889418}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.870487, "center_y":0.362291, "width":0.308541, "height":0.108557}, "confidence":0.823236}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.861185, "center_y":0.493458, "width":0.320809, "height":0.110061}, "confidence":0.672497}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.958025, "center_y":0.760544, "width":0.098133, "height":0.124669}, "confidence":0.665466}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.927679, "center_y":0.361325, "width":0.125199, "height":0.125338}, "confidence":0.650026}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.963494, "center_y":0.494707, "width":0.075929, "height":0.117175}, "confidence":0.629458}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.957889, "center_y":0.918032, "width":0.088964, "height":0.119044}, "confidence":0.255733}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data_1003/test/image-241_41.662625_-87.655432.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.886862, "center_y":0.906531, "width":0.196705, "height":0.121729}, "confidence":0.270606}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.164007, "center_y":0.744103, "width":0.243012, "height":0.115357}, "confidence":0.768927}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.167118, "center_y":0.933621, "width":0.235178, "height":0.095382}, "confidence":0.315716}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data_1003/test/image-83_42.147127999999995_-87.88634499999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.556461, "center_y":0.263669, "width":0.257725, "height":0.276772}, "confidence":0.967447}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.879784, "center_y":0.255298, "width":0.235495, "height":0.272886}, "confidence":0.965622}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.198382, "center_y":0.251703, "width":0.249009, "height":0.262049}, "confidence":0.938135}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.272217, "center_y":0.944907, "width":0.342999, "height":0.100141}, "confidence":0.595645}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.755054, "center_y":0.945847, "width":0.363390, "height":0.116518}, "confidence":0.366749}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data_1003/test/image-126_41.668475_-87.64944.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.756866, "center_y":0.056857, "width":0.272194, "height":0.099748}, "confidence":0.936099}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.817949, "center_y":0.490256, "width":0.158721, "height":0.091757}, "confidence":0.847517}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.088517, "center_y":0.592958, "width":0.160620, "height":0.142619}, "confidence":0.845437}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.783177, "center_y":0.672883, "width":0.235599, "height":0.206911}, "confidence":0.820947}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.801847, "center_y":0.867874, "width":0.170494, "height":0.091748}, "confidence":0.601181}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.184348, "center_y":0.764159, "width":0.345706, "height":0.104988}, "confidence":0.582885}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.186520, "center_y":0.903719, "width":0.348146, "height":0.124068}, "confidence":0.514353}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.090039, "center_y":0.763878, "width":0.152914, "height":0.125467}, "confidence":0.433331}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data_1003/test/img-84_42.037738,-87.90337199999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.499923, "center_y":0.262607, "width":0.215151, "height":0.366355}, "confidence":0.990640}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.742848, "center_y":0.243600, "width":0.228860, "height":0.285838}, "confidence":0.987944}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.582790, "center_y":0.671072, "width":0.388905, "height":0.227000}, "confidence":0.911391}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.629753, "center_y":0.901464, "width":0.170567, "height":0.175595}, "confidence":0.901907}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.060418, "center_y":0.256979, "width":0.106564, "height":0.291207}, "confidence":0.474379}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data_1003/test/img-163_42.034487999999996,-87.89995599999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.354585, "center_y":0.424231, "width":0.376205, "height":0.210571}, "confidence":0.978552}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.366943, "center_y":0.864162, "width":0.384694, "height":0.133295}, "confidence":0.800202}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.934787, "center_y":0.247360, "width":0.125700, "height":0.157109}, "confidence":0.781359}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.939415, "center_y":0.062170, "width":0.110891, "height":0.117487}, "confidence":0.695485}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.325924, "center_y":0.033524, "width":0.214877, "height":0.061531}, "confidence":0.692680}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.357876, "center_y":0.623945, "width":0.333407, "height":0.134254}, "confidence":0.660619}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.909240, "center_y":0.746070, "width":0.151561, "height":0.353678}, "confidence":0.583791}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.917644, "center_y":0.469052, "width":0.139424, "height":0.175211}, "confidence":0.531941}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.365160, "center_y":0.209305, "width":0.384654, "height":0.152480}, "confidence":0.513113}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.275057, "center_y":0.631534, "width":0.188025, "height":0.102804}, "confidence":0.402940}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data_1003/test/img-39_42.039688,-87.90337199999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.278828, "center_y":0.287213, "width":0.179935, "height":0.604051}, "confidence":0.936502}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.088150, "center_y":0.316674, "width":0.173807, "height":0.570298}, "confidence":0.936453}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.904419, "center_y":0.126477, "width":0.171082, "height":0.131246}, "confidence":0.858173}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.570216, "center_y":0.783478, "width":0.181477, "height":0.428409}, "confidence":0.785131}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.576843, "center_y":0.273191, "width":0.239251, "height":0.732661}, "confidence":0.760112}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.866717, "center_y":0.776330, "width":0.202335, "height":0.457957}, "confidence":0.711398}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.328110, "center_y":0.828474, "width":0.297761, "height":0.378755}, "confidence":0.709222}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data_1003/test/image-141_42.149077999999996_-87.888057.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.121562, "center_y":0.746808, "width":0.243756, "height":0.257442}, "confidence":0.980929}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.807961, "center_y":0.298299, "width":0.400010, "height":0.321538}, "confidence":0.977510}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.880180, "center_y":0.709773, "width":0.222868, "height":0.190241}, "confidence":0.975891}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.552564, "center_y":0.150229, "width":0.288557, "height":0.358119}, "confidence":0.904804}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.197259, "center_y":0.134137, "width":0.321578, "height":0.247679}, "confidence":0.904537}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.750297, "center_y":0.939346, "width":0.325043, "height":0.150504}, "confidence":0.815527}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data_1003/test/image-269_42.07799_-87.837121.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.872329, "center_y":0.780417, "width":0.194702, "height":0.352827}, "confidence":0.950778}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.207069, "center_y":0.747990, "width":0.195366, "height":0.225129}, "confidence":0.885952}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.193259, "center_y":0.050526, "width":0.276461, "height":0.109134}, "confidence":0.264618}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.876116, "center_y":0.054963, "width":0.254402, "height":0.104257}, "confidence":0.295855}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data_1003/test/image-87_41.667825_-87.652008.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.178327, "center_y":0.291997, "width":0.131685, "height":0.126382}, "confidence":0.988763}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.168057, "center_y":0.121487, "width":0.119135, "height":0.133152}, "confidence":0.948974}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.173685, "center_y":0.465789, "width":0.121769, "height":0.131883}, "confidence":0.920385}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.822529, "center_y":0.562392, "width":0.436232, "height":0.133337}, "confidence":0.910334}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.954931, "center_y":0.170792, "width":0.079248, "height":0.094979}, "confidence":0.814798}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.184169, "center_y":0.798834, "width":0.118264, "height":0.133229}, "confidence":0.780529}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.947933, "center_y":0.046692, "width":0.115163, "height":0.093963}, "confidence":0.773546}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.184801, "center_y":0.948685, "width":0.116836, "height":0.096920}, "confidence":0.729034}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.942630, "center_y":0.294876, "width":0.101874, "height":0.093963}, "confidence":0.633537}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.710549, "center_y":0.435708, "width":0.146143, "height":0.076440}, "confidence":0.629256}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.199252, "center_y":0.621771, "width":0.161736, "height":0.138163}, "confidence":0.459013}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data_1003/test/image-274_41.665225_-87.658856.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.427107, "center_y":0.474324, "width":0.529492, "height":0.104059}, "confidence":0.946958}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.427376, "center_y":0.320036, "width":0.520265, "height":0.112087}, "confidence":0.920914}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.407361, "center_y":0.109981, "width":0.443793, "height":0.107054}, "confidence":0.910413}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.426145, "center_y":0.611548, "width":0.490364, "height":0.095786}, "confidence":0.850179}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.427569, "center_y":0.764038, "width":0.465870, "height":0.111317}, "confidence":0.674978}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.544864, "center_y":0.766660, "width":0.172769, "height":0.114249}, "confidence":0.414744}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data_1003/test/image-15_42.07539_-87.848249.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.150071, "center_y":0.784620, "width":0.253928, "height":0.222049}, "confidence":0.938359}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.207369, "center_y":0.357264, "width":0.305928, "height":0.145241}, "confidence":0.936367}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.529008, "center_y":0.775340, "width":0.262667, "height":0.245007}, "confidence":0.896359}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.172445, "center_y":0.752743, "width":0.359676, "height":0.389301}, "confidence":0.773108}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.942473, "center_y":0.714152, "width":0.110257, "height":0.304592}, "confidence":0.761447}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.945864, "center_y":0.281441, "width":0.100718, "height":0.364393}, "confidence":0.721573}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.568487, "center_y":0.138757, "width":0.189873, "height":0.248875}, "confidence":0.617723}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data_1003/test/img-43_42.039688,-87.89995599999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.783761, "center_y":0.635954, "width":0.151840, "height":0.544484}, "confidence":0.859740}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.451184, "center_y":0.662145, "width":0.203148, "height":0.673020}, "confidence":0.485518}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.448410, "center_y":0.646426, "width":0.188189, "height":0.552428}, "confidence":0.444583}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.509928, "center_y":0.168565, "width":0.158365, "height":0.376067}, "confidence":0.965931}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.090270, "center_y":0.179939, "width":0.158616, "height":0.364753}, "confidence":0.888965}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.943447, "center_y":0.593431, "width":0.095650, "height":0.515832}, "confidence":0.428438}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.323846, "center_y":0.169275, "width":0.127132, "height":0.357978}, "confidence":0.409551}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data_1003/test/image-336_42.145177999999994_-87.879497.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.789768, "center_y":0.766019, "width":0.376019, "height":0.300063}, "confidence":0.936206}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.345693, "center_y":0.744220, "width":0.339073, "height":0.594204}, "confidence":0.395809}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data_1003/test/image-268_42.07539_-87.836265.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.147328, "center_y":0.552764, "width":0.282749, "height":0.191092}, "confidence":0.995527}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.723523, "center_y":0.496933, "width":0.238963, "height":0.281799}, "confidence":0.994455}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.436592, "center_y":0.522592, "width":0.197351, "height":0.160456}, "confidence":0.984349}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.945428, "center_y":0.485035, "width":0.108344, "height":0.226668}, "confidence":0.582150}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.428722, "center_y":0.541809, "width":0.245632, "height":0.292392}, "confidence":0.348104}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data_1003/test/image-243_42.07799_-87.84225699999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.591051, "center_y":0.218987, "width":0.277335, "height":0.215469}, "confidence":0.987907}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.543916, "center_y":0.528205, "width":0.169227, "height":0.179234}, "confidence":0.850663}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.532158, "center_y":0.880678, "width":0.304323, "height":0.208233}, "confidence":0.743966}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data_1003/test/image-344_42.145177999999994_-87.890625.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.356098, "center_y":0.326171, "width":0.230968, "height":0.386189}, "confidence":0.391530}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.718993, "center_y":0.249373, "width":0.341899, "height":0.141424}, "confidence":0.364230}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.348538, "center_y":0.338968, "width":0.279419, "height":0.391702}, "confidence":0.503529}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.722789, "center_y":0.252167, "width":0.370723, "height":0.147791}, "confidence":0.807505}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data_1003/test/image-230_41.665225_-87.651152.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.088436, "center_y":0.588677, "width":0.147739, "height":0.115686}, "confidence":0.903715}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.086873, "center_y":0.736380, "width":0.168308, "height":0.108140}, "confidence":0.900357}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.084005, "center_y":0.436310, "width":0.148701, "height":0.113803}, "confidence":0.891478}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.084506, "center_y":0.286359, "width":0.165589, "height":0.090929}, "confidence":0.886673}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.081825, "center_y":0.133979, "width":0.155532, "height":0.093801}, "confidence":0.877122}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.090529, "center_y":0.022439, "width":0.170907, "height":0.032820}, "confidence":0.255550}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data_1003/test/image-237_42.147777999999995_-87.883777.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.884586, "center_y":0.717133, "width":0.232826, "height":0.270014}, "confidence":0.988774}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.251948, "center_y":0.661515, "width":0.280262, "height":0.248602}, "confidence":0.988646}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.582834, "center_y":0.738607, "width":0.315096, "height":0.365774}, "confidence":0.913055}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.645706, "center_y":0.031542, "width":0.315617, "height":0.061253}, "confidence":0.269402}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.028315, "center_y":0.718939, "width":0.041632, "height":0.196795}, "confidence":0.262241}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data_1003/test/image-247_42.07669_-87.837977.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.183502, "center_y":0.873240, "width":0.230452, "height":0.212033}, "confidence":0.968274}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.727591, "center_y":0.893042, "width":0.208351, "height":0.181935}, "confidence":0.963217}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.180143, "center_y":0.175811, "width":0.238953, "height":0.360556}, "confidence":0.954941}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.441599, "center_y":0.873114, "width":0.171868, "height":0.240053}, "confidence":0.651684}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.440593, "center_y":0.873249, "width":0.174956, "height":0.248509}, "confidence":0.339162}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.436922, "center_y":0.131644, "width":0.236498, "height":0.288325}, "confidence":0.284872}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.714495, "center_y":0.167818, "width":0.216628, "height":0.349122}, "confidence":0.878251}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.444143, "center_y":0.180184, "width":0.177987, "height":0.442600}, "confidence":0.329219}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.938309, "center_y":0.108026, "width":0.108097, "height":0.230541}, "confidence":0.293009}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data_1003/test/image-98_41.663925_-87.652864.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.683850, "center_y":0.529392, "width":0.155509, "height":0.100521}, "confidence":0.977102}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.645000, "center_y":0.196702, "width":0.229223, "height":0.094460}, "confidence":0.964751}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.717162, "center_y":0.716815, "width":0.123884, "height":0.131261}, "confidence":0.939323}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.672648, "center_y":0.044389, "width":0.171191, "height":0.071802}, "confidence":0.936962}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.567964, "center_y":0.368951, "width":0.452264, "height":0.100131}, "confidence":0.923089}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.647417, "center_y":0.901284, "width":0.243040, "height":0.095668}, "confidence":0.783150}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.677335, "center_y":0.362705, "width":0.153845, "height":0.088232}, "confidence":0.575820}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data_1003/test/image-53_41.666525_-87.658856.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.506737, "center_y":0.796987, "width":0.149489, "height":0.098557}, "confidence":0.522283}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.490933, "center_y":0.940444, "width":0.178530, "height":0.103207}, "confidence":0.482970}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.504867, "center_y":0.795483, "width":0.156449, "height":0.110659}, "confidence":0.329605}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.490866, "center_y":0.648858, "width":0.185098, "height":0.092742}, "confidence":0.940867}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.482267, "center_y":0.516201, "width":0.211660, "height":0.099467}, "confidence":0.909987}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.365001, "center_y":0.093228, "width":0.542597, "height":0.111214}, "confidence":0.860883}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data_1003/test/image-294_42.149727999999996_-87.891481.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.443943, "center_y":0.089293, "width":0.294363, "height":0.186891}, "confidence":0.959777}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.897850, "center_y":0.816525, "width":0.187107, "height":0.239949}, "confidence":0.950408}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.235739, "center_y":0.776522, "width":0.236210, "height":0.388737}, "confidence":0.925375}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.142729, "center_y":0.058661, "width":0.234264, "height":0.112488}, "confidence":0.580414}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data_1003/test/img-118_42.036438,-87.89995599999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.296765, "center_y":0.313583, "width":0.243820, "height":0.154230}, "confidence":0.974603}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.358355, "center_y":0.788007, "width":0.382199, "height":0.178223}, "confidence":0.933005}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.267192, "center_y":0.569281, "width":0.159926, "height":0.187782}, "confidence":0.864384}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.328486, "center_y":0.971650, "width":0.259068, "height":0.059833}, "confidence":0.444149}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.286356, "center_y":0.796597, "width":0.195637, "height":0.142053}, "confidence":0.265309}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data_1003/test/image-55_42.147127999999995_-87.887201.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.520037, "center_y":0.265583, "width":0.176144, "height":0.215654}, "confidence":0.979578}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.449549, "center_y":0.611263, "width":0.313001, "height":0.305107}, "confidence":0.970775}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.456688, "center_y":0.916599, "width":0.303436, "height":0.167758}, "confidence":0.869525}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data_1003/test/image-280_41.666525_-87.659712.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.819081, "center_y":0.657828, "width":0.453586, "height":0.113880}, "confidence":0.968778}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.809134, "center_y":0.529608, "width":0.415993, "height":0.134424}, "confidence":0.948526}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.815791, "center_y":0.793598, "width":0.450497, "height":0.101692}, "confidence":0.898139}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.698395, "center_y":0.101763, "width":0.227356, "height":0.100180}, "confidence":0.869155}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.084622, "center_y":0.892759, "width":0.155450, "height":0.105453}, "confidence":0.857477}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.815976, "center_y":0.910034, "width":0.400971, "height":0.128078}, "confidence":0.795356}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.084288, "center_y":0.581630, "width":0.127784, "height":0.122869}, "confidence":0.795011}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.080379, "center_y":0.734948, "width":0.158772, "height":0.128783}, "confidence":0.794460}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.082674, "center_y":0.119852, "width":0.141420, "height":0.129099}, "confidence":0.640225}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data_1003/test/image-67_42.148427999999996_-87.882065.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.202260, "center_y":0.421945, "width":0.373654, "height":0.251388}, "confidence":0.981028}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.945507, "center_y":0.659264, "width":0.091803, "height":0.146308}, "confidence":0.383470}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.044156, "center_y":0.106290, "width":0.072101, "height":0.231140}, "confidence":0.321785}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.939795, "center_y":0.364373, "width":0.110312, "height":0.267514}, "confidence":0.254959}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data_1003/test/image-99_41.667175_-87.652864.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.607081, "center_y":0.748642, "width":0.113372, "height":0.111303}, "confidence":0.954797}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.604569, "center_y":0.910744, "width":0.130845, "height":0.130988}, "confidence":0.953469}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.592937, "center_y":0.547701, "width":0.141151, "height":0.088515}, "confidence":0.588187}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.087582, "center_y":0.940634, "width":0.149631, "height":0.090577}, "confidence":0.570705}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.404069, "center_y":0.064109, "width":0.344556, "height":0.114634}, "confidence":0.543439}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.595917, "center_y":0.410864, "width":0.125128, "height":0.142484}, "confidence":0.388569}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.070543, "center_y":0.362751, "width":0.120326, "height":0.210663}, "confidence":0.328092}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"data_1003/test/img-45_42.039688,-87.898248.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.237114, "center_y":0.136014, "width":0.204948, "height":0.284862}, "confidence":0.968082}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.439282, "center_y":0.545891, "width":0.193976, "height":0.487306}, "confidence":0.919935}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.863712, "center_y":0.115477, "width":0.148933, "height":0.230970}, "confidence":0.865488}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.879438, "center_y":0.518673, "width":0.165312, "height":0.646711}, "confidence":0.858917}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.653732, "center_y":0.114372, "width":0.190083, "height":0.237503}, "confidence":0.830383}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.453716, "center_y":0.122603, "width":0.114527, "height":0.251087}, "confidence":0.386193}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"data_1003/test/image-119_41.664575_-87.65371999999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.897479, "center_y":0.716247, "width":0.202276, "height":0.098056}, "confidence":0.971128}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.264125, "center_y":0.386892, "width":0.168410, "height":0.089676}, "confidence":0.966000}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.252100, "center_y":0.245763, "width":0.188668, "height":0.137145}, "confidence":0.952368}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.263721, "center_y":0.551544, "width":0.165363, "height":0.095041}, "confidence":0.945400}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.871631, "center_y":0.234020, "width":0.199873, "height":0.170786}, "confidence":0.941506}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.880640, "center_y":0.591791, "width":0.169536, "height":0.086035}, "confidence":0.913104}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.898050, "center_y":0.852033, "width":0.206092, "height":0.106602}, "confidence":0.912937}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.272882, "center_y":0.718550, "width":0.146046, "height":0.115946}, "confidence":0.910327}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.275001, "center_y":0.888541, "width":0.161560, "height":0.102977}, "confidence":0.875818}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.890550, "center_y":0.453479, "width":0.209852, "height":0.134150}, "confidence":0.836085}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"data_1003/test/image-6_41.662625_-87.659712.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.170911, "center_y":0.859491, "width":0.349382, "height":0.116966}, "confidence":0.911364}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.174292, "center_y":0.724364, "width":0.346739, "height":0.108057}, "confidence":0.877376}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.172800, "center_y":0.972758, "width":0.330708, "height":0.071352}, "confidence":0.328133}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.875613, "center_y":0.898897, "width":0.181763, "height":0.113559}, "confidence":0.844646}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.886475, "center_y":0.728374, "width":0.200101, "height":0.119050}, "confidence":0.634821}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"data_1003/test/image-239_41.667825_-87.64944.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.826551, "center_y":0.496488, "width":0.238596, "height":0.107570}, "confidence":0.756317}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.820719, "center_y":0.366051, "width":0.236675, "height":0.097724}, "confidence":0.557748}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.823605, "center_y":0.755724, "width":0.234446, "height":0.107262}, "confidence":0.509712}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.716912, "center_y":0.636963, "width":0.430836, "height":0.121456}, "confidence":0.486367}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.708493, "center_y":0.507455, "width":0.511463, "height":0.125196}, "confidence":0.316482}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.816838, "center_y":0.110991, "width":0.201178, "height":0.099390}, "confidence":0.840660}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.104874, "center_y":0.930190, "width":0.187878, "height":0.124375}, "confidence":0.837269}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.823409, "center_y":0.240512, "width":0.181709, "height":0.088207}, "confidence":0.785547}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.088468, "center_y":0.105265, "width":0.174912, "height":0.113864}, "confidence":0.739122}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.198124, "center_y":0.269845, "width":0.376722, "height":0.120671}, "confidence":0.615650}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.063485, "center_y":0.765074, "width":0.119928, "height":0.136612}, "confidence":0.586215}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.811800, "center_y":0.369323, "width":0.234292, "height":0.119018}, "confidence":0.581278}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.067248, "center_y":0.506339, "width":0.119643, "height":0.085369}, "confidence":0.480390}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.172906, "center_y":0.774818, "width":0.339459, "height":0.109268}, "confidence":0.478595}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.195308, "center_y":0.110891, "width":0.368053, "height":0.141446}, "confidence":0.460828}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.195984, "center_y":0.357667, "width":0.387167, "height":0.160226}, "confidence":0.417434}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.832274, "center_y":0.493852, "width":0.243340, "height":0.120043}, "confidence":0.384804}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.203593, "center_y":0.506069, "width":0.388440, "height":0.090323}, "confidence":0.284700}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"data_1003/test/image-160_41.665875_-87.657144.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.571938, "center_y":0.212006, "width":0.168483, "height":0.089759}, "confidence":0.901180}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.611419, "center_y":0.568264, "width":0.248119, "height":0.107803}, "confidence":0.877309}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.664338, "center_y":0.402335, "width":0.353063, "height":0.153169}, "confidence":0.872308}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.715274, "center_y":0.777559, "width":0.472103, "height":0.207874}, "confidence":0.824020}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.569900, "center_y":0.393443, "width":0.146978, "height":0.114915}, "confidence":0.696760}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"data_1003/test/image-326_42.07734_-87.848249.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.588614, "center_y":0.162802, "width":0.301118, "height":0.140493}, "confidence":0.830749}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.201700, "center_y":0.839913, "width":0.305454, "height":0.137084}, "confidence":0.607379}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.939981, "center_y":0.124757, "width":0.106509, "height":0.229957}, "confidence":0.330219}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.176321, "center_y":0.182044, "width":0.393129, "height":0.154703}, "confidence":0.259262}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.170020, "center_y":0.178953, "width":0.349737, "height":0.143673}, "confidence":0.709519}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"data_1003/test/image-165_42.146477999999995_-87.892337.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.652879, "center_y":0.798547, "width":0.314092, "height":0.230441}, "confidence":0.980637}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.734375, "center_y":0.413113, "width":0.409591, "height":0.402271}, "confidence":0.972465}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.179901, "center_y":0.607326, "width":0.224326, "height":0.416282}, "confidence":0.968504}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"data_1003/test/image-63_42.147127999999995_-87.888913.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.814310, "center_y":0.211565, "width":0.372697, "height":0.346875}, "confidence":0.990937}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.578430, "center_y":0.753741, "width":0.383345, "height":0.364533}, "confidence":0.985509}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.321457, "center_y":0.631667, "width":0.421237, "height":0.386330}, "confidence":0.975095}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.129336, "center_y":0.437660, "width":0.271324, "height":0.264169}, "confidence":0.960229}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.854589, "center_y":0.865978, "width":0.326851, "height":0.316154}, "confidence":0.855662}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.529267, "center_y":0.104660, "width":0.330800, "height":0.198987}, "confidence":0.765707}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"data_1003/test/image-282_42.145827999999995_-87.882921.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.372099, "center_y":0.096571, "width":0.326146, "height":0.176936}, "confidence":0.892428}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"data_1003/test/image-201_42.150377999999996_-87.889769.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.433136, "center_y":0.178548, "width":0.402904, "height":0.247643}, "confidence":0.993642}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.426018, "center_y":0.893839, "width":0.274360, "height":0.199273}, "confidence":0.856926}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.873435, "center_y":0.336935, "width":0.242553, "height":0.228713}, "confidence":0.803171}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.896463, "center_y":0.066324, "width":0.198312, "height":0.132878}, "confidence":0.549157}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"data_1003/test/image-314_42.08124_-87.84054499999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.894240, "center_y":0.212123, "width":0.200450, "height":0.138408}, "confidence":0.399258}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.898643, "center_y":0.208460, "width":0.213354, "height":0.154162}, "confidence":0.515625}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.049591, "center_y":0.145908, "width":0.085379, "height":0.138221}, "confidence":0.800582}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.055342, "center_y":0.471577, "width":0.105939, "height":0.146975}, "confidence":0.764940}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.119042, "center_y":0.146377, "width":0.245336, "height":0.116616}, "confidence":0.580527}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"data_1003/test/image-148_41.665875_-87.658856.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.510878, "center_y":0.784800, "width":0.247809, "height":0.105315}, "confidence":0.968701}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.514171, "center_y":0.360337, "width":0.165134, "height":0.090011}, "confidence":0.966631}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.515076, "center_y":0.650646, "width":0.193569, "height":0.093458}, "confidence":0.964041}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.508379, "center_y":0.505760, "width":0.180899, "height":0.090881}, "confidence":0.963210}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.506909, "center_y":0.070751, "width":0.152620, "height":0.120964}, "confidence":0.816079}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.518296, "center_y":0.950355, "width":0.167422, "height":0.084718}, "confidence":0.609064}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"data_1003/test/image-204_42.07539_-87.835409.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.933543, "center_y":0.335990, "width":0.126766, "height":0.200532}, "confidence":0.927330}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.309481, "center_y":0.550994, "width":0.234339, "height":0.248605}, "confidence":0.888820}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.060056, "center_y":0.549428, "width":0.126283, "height":0.230078}, "confidence":0.661616}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.949120, "center_y":0.899462, "width":0.105076, "height":0.140268}, "confidence":0.646415}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.935117, "center_y":0.089292, "width":0.122958, "height":0.136707}, "confidence":0.267564}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"data_1003/test/image-95_42.151028_-87.892337.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.837394, "center_y":0.700081, "width":0.248169, "height":0.324297}, "confidence":0.951221}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.704692, "center_y":0.943962, "width":0.204992, "height":0.096514}, "confidence":0.900763}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"data_1003/test/image-54_42.145827999999995_-87.890625.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.680833, "center_y":0.206814, "width":0.229589, "height":0.377430}, "confidence":0.983861}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.912880, "center_y":0.204478, "width":0.146224, "height":0.265627}, "confidence":0.847289}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.083231, "center_y":0.181518, "width":0.139721, "height":0.294111}, "confidence":0.672968}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"data_1003/test/image-370_41.666525_-87.652864.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.587114, "center_y":0.860964, "width":0.150718, "height":0.108050}, "confidence":0.830180}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.565453, "center_y":0.700122, "width":0.200290, "height":0.094484}, "confidence":0.821671}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.452531, "center_y":0.407471, "width":0.505660, "height":0.122273}, "confidence":0.719201}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.472943, "center_y":0.702584, "width":0.467730, "height":0.120567}, "confidence":0.405894}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"data_1003/test/img-8_42.040988,-87.904226.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.267109, "center_y":0.836455, "width":0.117023, "height":0.152493}, "confidence":0.939156}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.218715, "center_y":0.411787, "width":0.275821, "height":0.145301}, "confidence":0.922577}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.829176, "center_y":0.714612, "width":0.120381, "height":0.198965}, "confidence":0.853120}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.897071, "center_y":0.081325, "width":0.171259, "height":0.156747}, "confidence":0.584163}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.273281, "center_y":0.959858, "width":0.136811, "height":0.073689}, "confidence":0.482458}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.204272, "center_y":0.352171, "width":0.286866, "height":0.349684}, "confidence":0.436656}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.208621, "center_y":0.048313, "width":0.294241, "height":0.095536}, "confidence":0.426804}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.987174, "center_y":0.701348, "width":0.035727, "height":0.156384}, "confidence":0.307242}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.199963, "center_y":0.211972, "width":0.278766, "height":0.120612}, "confidence":0.282621}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"data_1003/test/image-365_42.145177999999994_-87.880353.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.494733, "center_y":0.657792, "width":0.408356, "height":0.591668}, "confidence":0.662427}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.906458, "center_y":0.874936, "width":0.159764, "height":0.188394}, "confidence":0.616530}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.118236, "center_y":0.735346, "width":0.243792, "height":0.621642}, "confidence":0.462548}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"data_1003/test/image-102_42.07929_-87.83369699999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.469728, "center_y":0.316254, "width":0.185842, "height":0.167901}, "confidence":0.963835}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.551716, "center_y":0.937180, "width":0.407445, "height":0.125738}, "confidence":0.862731}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.502198, "center_y":0.634019, "width":0.164815, "height":0.192040}, "confidence":0.833374}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.439288, "center_y":0.085553, "width":0.291104, "height":0.151437}, "confidence":0.773720}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"data_1003/test/img-140_42.035137999999996,-87.90678799999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.330449, "center_y":0.698240, "width":0.479400, "height":0.209808}, "confidence":0.947173}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.430900, "center_y":0.051257, "width":0.232458, "height":0.097876}, "confidence":0.931814}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.455599, "center_y":0.445011, "width":0.173998, "height":0.148227}, "confidence":0.629156}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.326765, "center_y":0.225265, "width":0.497310, "height":0.159869}, "confidence":0.560438}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.331138, "center_y":0.445526, "width":0.482456, "height":0.184776}, "confidence":0.442257}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.291612, "center_y":0.061350, "width":0.479380, "height":0.120724}, "confidence":0.342463}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.432494, "center_y":0.237460, "width":0.210165, "height":0.105405}, "confidence":0.296704}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.449584, "center_y":0.680337, "width":0.147801, "height":0.172304}, "confidence":0.266349}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"data_1003/test/img-69_42.038388,-87.90337199999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.441266, "center_y":0.332296, "width":0.216456, "height":0.388922}, "confidence":0.967290}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.757039, "center_y":0.395518, "width":0.330222, "height":0.236342}, "confidence":0.964689}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.205421, "center_y":0.271593, "width":0.185447, "height":0.601407}, "confidence":0.752518}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"data_1003/test/image-325_41.665875_-87.652864.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.608468, "center_y":0.643140, "width":0.178831, "height":0.102427}, "confidence":0.983627}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.604434, "center_y":0.815766, "width":0.180033, "height":0.094691}, "confidence":0.978352}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.605222, "center_y":0.956811, "width":0.166530, "height":0.085977}, "confidence":0.775448}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.610421, "center_y":0.503934, "width":0.212908, "height":0.078654}, "confidence":0.534412}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.583866, "center_y":0.034157, "width":0.178100, "height":0.068012}, "confidence":0.328296}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"data_1003/test/img-19_42.040338,-87.907642.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.787252, "center_y":0.702306, "width":0.153735, "height":0.251241}, "confidence":0.597291}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.595386, "center_y":0.713128, "width":0.126934, "height":0.229945}, "confidence":0.328620}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.595386, "center_y":0.713128, "width":0.126934, "height":0.229945}, "confidence":0.418591}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.791489, "center_y":0.703202, "width":0.143513, "height":0.252193}, "confidence":0.523122}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.203723, "center_y":0.620592, "width":0.162602, "height":0.644689}, "confidence":0.980059}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.406953, "center_y":0.622471, "width":0.188027, "height":0.529381}, "confidence":0.864988}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.647705, "center_y":0.064486, "width":0.345671, "height":0.131935}, "confidence":0.632362}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.047954, "center_y":0.739720, "width":0.076262, "height":0.230483}, "confidence":0.478862}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"data_1003/test/image-17_42.151678_-87.887201.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.579286, "center_y":0.436000, "width":0.718783, "height":0.283742}, "confidence":0.856172}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"data_1003/test/image-155_41.664575_-87.659712.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.787996, "center_y":0.737485, "width":0.184915, "height":0.095282}, "confidence":0.926590}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.791024, "center_y":0.609683, "width":0.215939, "height":0.103235}, "confidence":0.879097}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.129159, "center_y":0.880907, "width":0.230588, "height":0.109469}, "confidence":0.747409}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.819751, "center_y":0.880336, "width":0.271290, "height":0.106290}, "confidence":0.609715}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.793322, "center_y":0.354757, "width":0.190043, "height":0.107563}, "confidence":0.350061}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.128301, "center_y":0.752965, "width":0.278956, "height":0.082678}, "confidence":0.306843}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.124795, "center_y":0.362112, "width":0.222465, "height":0.108572}, "confidence":0.957537}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.125162, "center_y":0.626705, "width":0.244815, "height":0.101277}, "confidence":0.927159}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.126530, "center_y":0.500633, "width":0.247932, "height":0.106068}, "confidence":0.901895}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.123883, "center_y":0.752701, "width":0.244078, "height":0.095771}, "confidence":0.835208}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.788270, "center_y":0.481194, "width":0.223698, "height":0.094907}, "confidence":0.766635}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.778190, "center_y":0.352425, "width":0.195752, "height":0.112795}, "confidence":0.763281}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.128641, "center_y":0.879151, "width":0.197811, "height":0.110448}, "confidence":0.286569}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"data_1003/test/image-373_41.664575_-87.658856.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.556735, "center_y":0.604005, "width":0.197491, "height":0.098943}, "confidence":0.992867}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.561032, "center_y":0.466628, "width":0.190084, "height":0.093795}, "confidence":0.989979}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.582752, "center_y":0.888841, "width":0.157972, "height":0.110041}, "confidence":0.905389}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.574318, "center_y":0.747236, "width":0.144452, "height":0.085278}, "confidence":0.901464}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.554171, "center_y":0.330131, "width":0.212919, "height":0.104008}, "confidence":0.520571}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"data_1003/test/image-151_42.149077999999996_-87.879497.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.400421, "center_y":0.483819, "width":0.214633, "height":0.194408}, "confidence":0.992209}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.706840, "center_y":0.480379, "width":0.272111, "height":0.265607}, "confidence":0.960476}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.100422, "center_y":0.528145, "width":0.182433, "height":0.370893}, "confidence":0.940982}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"data_1003/test/image-319_41.667825_-87.658856.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.324950, "center_y":0.324338, "width":0.546951, "height":0.136128}, "confidence":0.919853}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.326255, "center_y":0.474202, "width":0.471380, "height":0.137830}, "confidence":0.887514}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.434494, "center_y":0.913677, "width":0.219699, "height":0.126288}, "confidence":0.885302}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.299141, "center_y":0.179385, "width":0.555967, "height":0.142681}, "confidence":0.867299}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.325995, "center_y":0.626045, "width":0.463693, "height":0.159129}, "confidence":0.849678}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.295801, "center_y":0.053570, "width":0.494020, "height":0.101941}, "confidence":0.695343}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.426685, "center_y":0.758797, "width":0.209871, "height":0.134560}, "confidence":0.563918}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"data_1003/test/image-322_42.150377999999996_-87.881209.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.809047, "center_y":0.564573, "width":0.298142, "height":0.245463}, "confidence":0.990703}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.083974, "center_y":0.632186, "width":0.165204, "height":0.448558}, "confidence":0.665148}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"data_1003/test/img-130_42.035788,-87.90251799999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.550948, "center_y":0.483538, "width":0.404913, "height":0.173294}, "confidence":0.979182}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.445607, "center_y":0.247969, "width":0.286975, "height":0.178507}, "confidence":0.937122}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.529653, "center_y":0.712223, "width":0.400124, "height":0.172196}, "confidence":0.790046}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.528397, "center_y":0.901006, "width":0.449213, "height":0.138659}, "confidence":0.778917}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.449000, "center_y":0.906844, "width":0.257052, "height":0.107116}, "confidence":0.585253}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"data_1003/test/image-278_42.07604_-87.838833.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.369039, "center_y":0.788684, "width":0.215522, "height":0.313113}, "confidence":0.939291}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.103737, "center_y":0.814293, "width":0.167399, "height":0.434431}, "confidence":0.763166}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.110035, "center_y":0.800700, "width":0.165054, "height":0.394384}, "confidence":0.267244}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.625594, "center_y":0.728484, "width":0.214618, "height":0.156050}, "confidence":0.417963}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.631425, "center_y":0.820438, "width":0.200898, "height":0.388689}, "confidence":0.526000}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"data_1003/test/image-62_41.668475_-87.657144.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.495595, "center_y":0.844110, "width":0.275776, "height":0.106117}, "confidence":0.773627}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.567885, "center_y":0.701217, "width":0.394864, "height":0.131695}, "confidence":0.513911}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.499271, "center_y":0.252836, "width":0.352126, "height":0.112236}, "confidence":0.840655}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.488764, "center_y":0.095035, "width":0.327910, "height":0.138743}, "confidence":0.634619}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"data_1003/test/image-207_42.147777999999995_-87.884633.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.578752, "center_y":0.641140, "width":0.311196, "height":0.178971}, "confidence":0.991535}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.210923, "center_y":0.664016, "width":0.278211, "height":0.234854}, "confidence":0.984802}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.883660, "center_y":0.682914, "width":0.217686, "height":0.265657}, "confidence":0.899594}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.291730, "center_y":0.055291, "width":0.275765, "height":0.109105}, "confidence":0.417537}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.745701, "center_y":0.052521, "width":0.320605, "height":0.089976}, "confidence":0.298323}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"data_1003/test/img-32_42.039688,-87.90934999999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.377296, "center_y":0.583034, "width":0.133450, "height":0.279374}, "confidence":0.649274}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.378202, "center_y":0.588314, "width":0.134351, "height":0.337289}, "confidence":0.524382}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.060717, "center_y":0.632989, "width":0.105877, "height":0.218878}, "confidence":0.686868}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"data_1003/test/img-85_42.037738,-87.90251799999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.568731, "center_y":0.172379, "width":0.192409, "height":0.223369}, "confidence":0.925919}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.558063, "center_y":0.736519, "width":0.186867, "height":0.481702}, "confidence":0.902274}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.556436, "center_y":0.723188, "width":0.202687, "height":0.467095}, "confidence":0.705587}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.353170, "center_y":0.733790, "width":0.165846, "height":0.535188}, "confidence":0.980278}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.785996, "center_y":0.752569, "width":0.213132, "height":0.303926}, "confidence":0.940340}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.347649, "center_y":0.219071, "width":0.199806, "height":0.357000}, "confidence":0.934591}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.794289, "center_y":0.124347, "width":0.185614, "height":0.140603}, "confidence":0.864753}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.953288, "center_y":0.789945, "width":0.093924, "height":0.200310}, "confidence":0.649581}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"data_1003/test/image-245_42.147777999999995_-87.892337.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.892381, "center_y":0.809274, "width":0.218271, "height":0.286859}, "confidence":0.986215}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.728192, "center_y":0.598561, "width":0.448773, "height":0.316719}, "confidence":0.980202}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.676141, "center_y":0.251104, "width":0.283127, "height":0.257641}, "confidence":0.956019}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.662250, "center_y":0.039278, "width":0.253412, "height":0.078004}, "confidence":0.293722}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"data_1003/test/image-210_42.151028_-87.889769.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.288970, "center_y":0.567694, "width":0.245675, "height":0.219734}, "confidence":0.994745}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.496464, "center_y":0.861737, "width":0.373628, "height":0.293501}, "confidence":0.991343}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.098784, "center_y":0.067745, "width":0.210790, "height":0.126263}, "confidence":0.761077}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.445889, "center_y":0.073383, "width":0.354196, "height":0.165951}, "confidence":0.701234}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.944912, "center_y":0.678470, "width":0.109305, "height":0.343095}, "confidence":0.418082}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"data_1003/test/image-285_42.151678_-87.891481.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.502936, "center_y":0.398992, "width":0.160658, "height":0.239962}, "confidence":0.879216}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.799695, "center_y":0.413411, "width":0.207786, "height":0.209360}, "confidence":0.876779}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.657167, "center_y":0.413815, "width":0.167406, "height":0.260064}, "confidence":0.467769}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.342849, "center_y":0.887185, "width":0.618148, "height":0.192068}, "confidence":0.459025}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.895401, "center_y":0.942113, "width":0.224741, "height":0.103375}, "confidence":0.332080}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"data_1003/test/img-149_42.035137999999996,-87.899102.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.730954, "center_y":0.641648, "width":0.229575, "height":0.246850}, "confidence":0.950170}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.720717, "center_y":0.351807, "width":0.222971, "height":0.175609}, "confidence":0.844980}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.714950, "center_y":0.927325, "width":0.185153, "height":0.140169}, "confidence":0.460643}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.073124, "center_y":0.204935, "width":0.133203, "height":0.137127}, "confidence":0.815661}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.079930, "center_y":0.852367, "width":0.147871, "height":0.161271}, "confidence":0.696342}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.069737, "center_y":0.619668, "width":0.124018, "height":0.151039}, "confidence":0.639171}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.066270, "center_y":0.049608, "width":0.122119, "height":0.082292}, "confidence":0.583376}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.046404, "center_y":0.399500, "width":0.082309, "height":0.166106}, "confidence":0.489699}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"data_1003/test/img-3_42.040988,-87.908496.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.861770, "center_y":0.711991, "width":0.293991, "height":0.307367}, "confidence":0.632559}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.649364, "center_y":0.865010, "width":0.366068, "height":0.312958}, "confidence":0.298318}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"data_1003/test/img-74_42.038388,-87.899102.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.716760, "center_y":0.823732, "width":0.248548, "height":0.191708}, "confidence":0.257376}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.110400, "center_y":0.238333, "width":0.158931, "height":0.201669}, "confidence":0.945588}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.709064, "center_y":0.827237, "width":0.268824, "height":0.163704}, "confidence":0.823492}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.777116, "center_y":0.975132, "width":0.190371, "height":0.047669}, "confidence":0.455983}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"data_1003/test/image-120_42.147777999999995_-87.88634499999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.217585, "center_y":0.774987, "width":0.304996, "height":0.342256}, "confidence":0.972678}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.269371, "center_y":0.433592, "width":0.252349, "height":0.284730}, "confidence":0.970300}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.868109, "center_y":0.592402, "width":0.228332, "height":0.231961}, "confidence":0.524269}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"data_1003/test/image-284_42.149077999999996_-87.881209.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.116961, "center_y":0.636808, "width":0.251286, "height":0.289202}, "confidence":0.936957}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.670992, "center_y":0.680350, "width":0.296556, "height":0.233090}, "confidence":0.936180}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.678239, "center_y":0.350506, "width":0.289049, "height":0.189303}, "confidence":0.919999}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.098150, "center_y":0.937351, "width":0.206819, "height":0.120072}, "confidence":0.681263}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.759609, "center_y":0.917134, "width":0.240527, "height":0.157065}, "confidence":0.560322}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"data_1003/test/image-24_42.147127999999995_-87.884633.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.580599, "center_y":0.250738, "width":0.367397, "height":0.232156}, "confidence":0.991720}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.823943, "center_y":0.559987, "width":0.258176, "height":0.326806}, "confidence":0.915686}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.818761, "center_y":0.878406, "width":0.338621, "height":0.231688}, "confidence":0.885828}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.190128, "center_y":0.203224, "width":0.255190, "height":0.232432}, "confidence":0.765847}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"data_1003/test/image-206_42.149077999999996_-87.891481.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.239055, "center_y":0.204877, "width":0.270294, "height":0.302882}, "confidence":0.986515}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.902551, "center_y":0.374319, "width":0.184609, "height":0.408170}, "confidence":0.940130}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.370359, "center_y":0.915706, "width":0.269666, "height":0.177689}, "confidence":0.685085}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"data_1003/test/image-81_41.664575_-87.652008.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.295999, "center_y":0.330874, "width":0.162461, "height":0.074726}, "confidence":0.922495}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.298025, "center_y":0.491192, "width":0.167842, "height":0.102029}, "confidence":0.842603}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.289960, "center_y":0.197348, "width":0.172101, "height":0.108549}, "confidence":0.812793}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.879294, "center_y":0.699379, "width":0.242430, "height":0.151149}, "confidence":0.721573}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.876051, "center_y":0.862246, "width":0.219366, "height":0.136681}, "confidence":0.532905}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"data_1003/test/img-92_42.037088,-87.90934999999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.494445, "center_y":0.141333, "width":0.159810, "height":0.297548}, "confidence":0.503695}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.280958, "center_y":0.146550, "width":0.224394, "height":0.311003}, "confidence":0.980227}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.373362, "center_y":0.859430, "width":0.501486, "height":0.169500}, "confidence":0.972757}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.057382, "center_y":0.201346, "width":0.098220, "height":0.188915}, "confidence":0.808444}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.495806, "center_y":0.136955, "width":0.155617, "height":0.307695}, "confidence":0.771230}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"data_1003/test/image-216_42.07539_-87.849105.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.719199, "center_y":0.340739, "width":0.133109, "height":0.257039}, "confidence":0.861794}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.736009, "center_y":0.726927, "width":0.182577, "height":0.319767}, "confidence":0.270514}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.736009, "center_y":0.726927, "width":0.182577, "height":0.319767}, "confidence":0.658869}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"data_1003/test/image-139_42.147127999999995_-87.880353.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.302888, "center_y":0.256492, "width":0.283671, "height":0.141002}, "confidence":0.981031}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.286423, "center_y":0.894138, "width":0.290092, "height":0.158659}, "confidence":0.964342}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.882638, "center_y":0.178034, "width":0.240857, "height":0.287627}, "confidence":0.963302}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.604689, "center_y":0.262329, "width":0.227022, "height":0.253062}, "confidence":0.912976}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.082710, "center_y":0.259267, "width":0.164120, "height":0.191577}, "confidence":0.646661}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"data_1003/test/img-108_42.036438,-87.908496.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.359693, "center_y":0.371583, "width":0.280125, "height":0.156160}, "confidence":0.980349}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.298900, "center_y":0.107718, "width":0.123115, "height":0.160996}, "confidence":0.950527}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.328229, "center_y":0.580312, "width":0.164048, "height":0.159421}, "confidence":0.943469}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.362963, "center_y":0.820202, "width":0.202294, "height":0.185669}, "confidence":0.888160}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.911083, "center_y":0.707138, "width":0.178043, "height":0.128902}, "confidence":0.816823}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.965757, "center_y":0.872657, "width":0.063641, "height":0.147242}, "confidence":0.393323}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.956181, "center_y":0.184570, "width":0.083087, "height":0.163735}, "confidence":0.352878}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.935654, "center_y":0.526076, "width":0.125057, "height":0.148847}, "confidence":0.330376}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"data_1003/test/image-0_42.150377999999996_-87.883777.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.274656, "center_y":0.561682, "width":0.353185, "height":0.240814}, "confidence":0.933654}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.120229, "center_y":0.272111, "width":0.253092, "height":0.323839}, "confidence":0.928426}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.368007, "center_y":0.891659, "width":0.225158, "height":0.212585}, "confidence":0.678915}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"data_1003/test/image-127_42.150377999999996_-87.88634499999999.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.556369, "center_y":0.265462, "width":0.307641, "height":0.259653}, "confidence":0.984993}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.883987, "center_y":0.249459, "width":0.230488, "height":0.241082}, "confidence":0.950748}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.882370, "center_y":0.891695, "width":0.241604, "height":0.173006}, "confidence":0.930064}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.564584, "center_y":0.942472, "width":0.275673, "height":0.130598}, "confidence":0.855585}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.238209, "center_y":0.937116, "width":0.279789, "height":0.113833}, "confidence":0.855297}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.238845, "center_y":0.242725, "width":0.279649, "height":0.246525}, "confidence":0.623101}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"data_1003/test/img-161_42.034487999999996,-87.901664.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.868615, "center_y":0.324065, "width":0.286410, "height":0.210195}, "confidence":0.989603}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.860707, "center_y":0.744378, "width":0.258340, "height":0.183732}, "confidence":0.986649}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.102819, "center_y":0.755250, "width":0.194162, "height":0.136300}, "confidence":0.973283}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.858028, "center_y":0.544146, "width":0.274662, "height":0.133242}, "confidence":0.963803}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.870161, "center_y":0.082048, "width":0.246669, "height":0.150272}, "confidence":0.914614}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.863224, "center_y":0.933631, "width":0.270003, "height":0.128263}, "confidence":0.808718}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.107926, "center_y":0.939162, "width":0.205171, "height":0.103485}, "confidence":0.643763}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.120510, "center_y":0.048205, "width":0.176598, "height":0.099333}, "confidence":0.626958}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.129644, "center_y":0.197298, "width":0.224486, "height":0.174204}, "confidence":0.491787}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"data_1003/test/image-153_41.667175_-87.652008.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.831305, "center_y":0.706177, "width":0.340549, "height":0.132933}, "confidence":0.782698}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.836121, "center_y":0.831320, "width":0.333733, "height":0.103409}, "confidence":0.617606}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.945194, "center_y":0.566538, "width":0.095975, "height":0.117450}, "confidence":0.590071}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.833941, "center_y":0.573947, "width":0.322909, "height":0.107409}, "confidence":0.543381}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.836149, "center_y":0.184861, "width":0.354174, "height":0.120881}, "confidence":0.432977}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.834097, "center_y":0.319125, "width":0.316788, "height":0.125900}, "confidence":0.391052}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.835101, "center_y":0.191885, "width":0.316286, "height":0.122319}, "confidence":0.499295}, 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.875115, "center_y":0.447971, "width":0.209111, "height":0.093194}, "confidence":0.261631}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.338411, "center_y":0.713503, "width":0.460628, "height":0.099075}, "confidence":0.909133}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.352036, "center_y":0.840416, "width":0.450621, "height":0.103809}, "confidence":0.908025}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.243042, "center_y":0.585396, "width":0.217321, "height":0.092830}, "confidence":0.900825}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.834971, "center_y":0.317317, "width":0.343347, "height":0.109577}, "confidence":0.644747}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.255379, "center_y":0.454562, "width":0.272105, "height":0.100959}, "confidence":0.490594}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.831958, "center_y":0.059812, "width":0.303106, "height":0.105857}, "confidence":0.304376}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"data_1003/test/image-20_42.151028_-87.877785.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.300144, "center_y":0.688419, "width":0.408457, "height":0.275363}, "confidence":0.904605}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"data_1003/test/image-291_42.07539_-87.837121.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"HouseAfter1960s", "relative_coordinates":{"center_x":0.851077, "center_y":0.531636, "width":0.214228, "height":0.178917}, "confidence":0.837983}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.200081, "center_y":0.484567, "width":0.159610, "height":0.305276}, "confidence":0.860236}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"data_1003/test/image-262_41.662625_-87.65371999999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.316529, "center_y":0.943190, "width":0.165029, "height":0.102362}, "confidence":0.907466}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.941484, "center_y":0.131817, "width":0.116600, "height":0.129340}, "confidence":0.888382}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.290918, "center_y":0.371537, "width":0.206403, "height":0.114273}, "confidence":0.867057}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.320383, "center_y":0.568692, "width":0.232570, "height":0.136576}, "confidence":0.790553}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.321837, "center_y":0.738693, "width":0.148755, "height":0.130467}, "confidence":0.730516}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.221359, "center_y":0.145570, "width":0.175399, "height":0.175784}, "confidence":0.577574}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"data_1003/test/img-139_42.035137999999996,-87.907642.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.811903, "center_y":0.520904, "width":0.391353, "height":0.244166}, "confidence":0.988296}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.064246, "center_y":0.776132, "width":0.104618, "height":0.169144}, "confidence":0.962492}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.793222, "center_y":0.262670, "width":0.431760, "height":0.222554}, "confidence":0.961073}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.781807, "center_y":0.754678, "width":0.296645, "height":0.171985}, "confidence":0.931284}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.058075, "center_y":0.083821, "width":0.101880, "height":0.145372}, "confidence":0.916256}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.053981, "center_y":0.547880, "width":0.094729, "height":0.152843}, "confidence":0.889456}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.741592, "center_y":0.946576, "width":0.262191, "height":0.107517}, "confidence":0.773266}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.795481, "center_y":0.059786, "width":0.362230, "height":0.119130}, "confidence":0.736689}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.054960, "center_y":0.314311, "width":0.098884, "height":0.175382}, "confidence":0.708869}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.050230, "center_y":0.952614, "width":0.110601, "height":0.088282}, "confidence":0.267334}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"data_1003/test/img-62_42.038388,-87.90934999999999.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.451233, "center_y":0.595213, "width":0.304426, "height":0.190622}, "confidence":0.992122}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.495164, "center_y":0.163352, "width":0.159828, "height":0.171367}, "confidence":0.946156}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.429054, "center_y":0.807517, "width":0.369927, "height":0.186259}, "confidence":0.916945}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.089888, "center_y":0.050986, "width":0.186048, "height":0.083749}, "confidence":0.740013}, 
+  {"class_id":0, "name":"HouseBefore1960s", "relative_coordinates":{"center_x":0.527738, "center_y":0.392988, "width":0.103766, "height":0.119836}, "confidence":0.375958}
+ ] 
+}
+]
